@@ -1,0 +1,11 @@
+{
+  "name": "finden-filum",
+  "version": "1.0.0",
+  "description": "Quickly, dependency-free, check for details of any file type",
+  "main": "./src/main.js",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "author": "confused-Techie",
+  "license": "MIT"
+}
