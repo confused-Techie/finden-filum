@@ -1,0 +1,43 @@
+h,source code,Header File
+c,source code,C Source
+f,source code,Fortran Source
+as,source code,ActionScript Source
+cc,source code,C++ Source
+cp,source code,C++ Source
+cs,source code,C# Source
+hh,source code,C++ Header File
+adb,source code,ADA Source
+ads,source code,ADA Source
+asp,source code,ASP Source
+asa,source code,ASP Source
+bib,source code,BibTeX Bibliography
+cpp,source code,C++ Source
+cxx,source code,C++ Source
+c++,source code,C++ Source
+clj,source code,Clojure Source
+csv,text,Comma Separated Values
+tsv,text,Tab Separated Values
+cgi,source code,GCI Script
+css,source code,Cascading Style Sheet
+erl,source code,Erlang Source
+hrl,source code,Erlang Source
+for,source code,Fortran Source
+fpp,source code,Fortran Source
+f77,source code,Fortran Source
+f90,source code,Fortran Source
+f95,source code,Fortran Source
+pch,source code,Header File 
+scpt,source code,Compile AppleScript,
+aspx,source code,ASP.NET Source
+ascx,source code,ASP.NET Source
+asmx,source code,ASP.NET Source
+ashx,source code,ASP.NET Source
+cfdg,source code,Context Free Design Grammar
+cljs,source code,Clojure Source
+fcgi,source code,CGI Script
+diff,version control, Git Differences
+applescript,source code,AppleScript Source
+coffee,source code,CoffeeScript Source
+COMMIT_EDITMSG,version control,Git
+dylan,source code,Dylan Source
+fscript,source code,F-Script source

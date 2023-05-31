@@ -1,6 +1,6 @@
 const { performance } = require("node:perf_hooks");
-const ff = require("../src/main.js");
-
+const ff = require("../src/main-alternative.js");
+//const ff = require("../src/main-alt-2.js");
 const possibleExts = [ "hello.txt", "file.h", "my.file.adb", "tester.scpt" ];
 const loops = 2000;
 

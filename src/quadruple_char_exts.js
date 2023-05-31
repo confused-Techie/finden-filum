@@ -25,4 +25,24 @@ map.set("ashx", {
   origin: "ASP.NET Source"
 });
 
+map.set("cfdg", {
+  category: "source code",
+  origin: "Context Free Design Grammar"
+});
+
+map.set("cljs", {
+  category: "source code",
+  origin: "Clojure Source"
+});
+
+map.set("fcgi", {
+  category: "source code",
+  origin: "CGI Script"
+});
+
+map.set("diff", {
+  category: "version control",
+  origin: "Git Differences"
+});
+
 module.exports = map;

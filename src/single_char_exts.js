@@ -2,10 +2,17 @@ const map = new Map();
 
 map.set("h", {
   category: "source code",
-  resourceURL: "https://learn.microsoft.com/en-us/cpp/cpp/header-files-cpp?view=msvc-170",
-  origin: "C++",
-  description: "C++ Header File"
+  description: "Header File"
 });
 
+map.set("c", {
+  category: "source code",
+  origin: "C Source"
+});
+
+map.set("f", {
+  category: "source code",
+  origin: "Fortran Source"
+});
 
 module.exports = map;
