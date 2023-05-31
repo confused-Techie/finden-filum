@@ -5,6 +5,10 @@ const mapDef = [
   {
     file: "../src/single_char_exts.js",
     keyLength: 1
+  },
+  {
+    file: "../src/triple_char_exts.js",
+    keyLength: 3
   }
 ];
 
@@ -27,7 +31,7 @@ mapDef.forEach((element) => {
         assert.strictEqual(typeof value.category, "string");
         assert.strictEqual(value.category.length > 0, true);
       });
-      
+
     });
 
   });

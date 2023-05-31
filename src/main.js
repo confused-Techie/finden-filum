@@ -1,6 +1,7 @@
 // The const below serves as our lookup table for all lengths modules
 const supports = {
-  1: "./single_char_exts.js"
+  1: "./single_char_exts.js",
+  3: "./triple_char_exts.js"
 };
 
 /**
@@ -37,6 +38,6 @@ module.exports = function (value, opts = {}) {
     return extension;
   }
 
-  
+
   return extension.category;
 };

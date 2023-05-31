@@ -1,7 +1,7 @@
 const { performance } = require("node:perf_hooks");
 const ff = require("../src/main.js");
 
-const possibleExts = [ "hello.txt", "file.h" ];
+const possibleExts = [ "hello.txt", "file.h", "my.file.adb" ];
 const loops = 100;
 
 /**
