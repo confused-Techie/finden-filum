@@ -4,7 +4,8 @@
   "description": "Quickly, dependency-free, check for details of any file type",
   "main": "./src/main.js",
   "scripts": {
-    "test": "node --test test/"
+    "test": "node --test test/",
+    "benchmark": "node ./benchmarks/benchmark.js"
   },
   "author": "confused-Techie",
   "license": "MIT"

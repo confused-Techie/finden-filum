@@ -7,7 +7,7 @@ describe("works as export", () => {
   it("ff", () => {
 
     assert.strictEqual(typeof ff, "function");
-    assert.strictEqual(ff("hello.t"), "text");
+    assert.strictEqual(ff("hello.h"), "source code");
 
   });
 });
