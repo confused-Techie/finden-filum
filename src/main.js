@@ -1,8 +1,13 @@
 // The const below serves as our lookup table for all lengths modules
 const supports = {
   1: "./single_char_exts.js",
-  3: "./triple_char_exts.js"
+  2: "./double_char_exts.js",
+  3: "./triple_char_exts.js",
+  4: "./quadruple_char_exts.js",
+  5: "./above_char_exts.js"
 };
+
+const supportAbove = 5;
 
 /**
  * @function ff
@@ -22,13 +27,20 @@ module.exports = function (value, opts = {}) {
     return ext;
   }
 
+  let idx;
+
+  if (ext.length >= supportAbove) {
+    idx = supportAbove;
+  }
   // ensure we support this length
   if (!supports[ext.length]) {
     return undefined;
+  } else {
+    idx = ext.length;
   }
 
   // Now require the hash map based on length
-  let extension = require(supports[ext.length]).get(ext);
+  let extension = require(supports[idx]).get(ext);
 
   if (typeof extension === "undefined") {
     return undefined;

@@ -29,3 +29,9 @@ Origins of the name:
 * `filum` Is Latin for "thread" the origins of the modern word find.
 
 Essentially means, Find File. `ff` for use in code examples.
+
+---
+
+Categories:
+
+- source code
