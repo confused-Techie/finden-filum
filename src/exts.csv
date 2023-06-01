@@ -19,7 +19,7 @@ io,text:source code,Io Source
 js,text:source code,JavaScript Source
 cl,text:source code,Lisp Source
 el,text:source code,Lisp Source
-md,text:source code,Markdown Document
+md,text:template,Markdown Document
 mk,text:source code,Makefile Source
 m3,text:source code,Modula-3 Source
 mm,text:source code,Objective-C Source
@@ -65,62 +65,62 @@ h++,text:source code,C++ Header
 gtd,text,GTD Document
 hls,text:source code,Haskell Source
 htm,text:source code,HTML Document
-inc,na,Include File
-ics,na,iCalendar Schedule
-ini,na,MS Window Initialization File
+inc,text:source code,Include File
+ics,text:data,iCalendar Schedule
+ini,text:configure,MS Window Initialization File
 bsh,script,BeanShell Script
 htc,text:source code,JavaScript Source
-jsp,na,Java Server Page
+jsp,text:source code,Java Server Page
 lsp,text:source code,Lisp Source
 mud,text:source code,Lisp Source
-log,na,Log File
+log,text,Log File
 lua,text:source code,Lua Source
-mips,na,MIPS Assembler Source
-asm,na,MIPS Assembler Source
+mips,text:source code,MIPS Assembler Source
+asm,text:source code,MIPS Assembler Source
 cm3,text:source code,Module-3 Source
 mli,text:source code,OCaml Source
 mll,text:source code,OCaml Source
 mly,text:source code,OCaml Source
-hbs,text:source-code,Mustache Document
+hbs,text:source code,Mustache Document
 pas,text:source code,Pascal Source
 pod,text:source code,Perl Source
 php,text:source code,PHP Source
 eps,text:source code,PostScript Source
 rpy,text:source code,Python Source
 cpy,text:source code,Python Source
-rem,na,Remind Document
-rst,na,reStructuredText Document
+rem,text:template,Remind Document
+rst,text:template,reStructuredText Document
 erb,text:source code,HTML with embedded Ruby
 rbx,text:source code,Ruby Source
 rjs,text:source code,Ruby Source
 scm,text:source code,Scheme Source
 sch,text:source code,Scheme Source
-ext,na,Setext Document
+ext,text:template,Setext Document
 sql,text:source code,SQL Source
 sml,text:source code,Standard ML Source
-svg,na,Scalable Vector Graphics
+svg,media:image,Scalable Vector Graphics
 swg,text:source code,SWIG Source
 tcl,text:source code,Tcl Source
-tex,na,TeX Document
-sty,na,TeX Document
-cls,na,TeX Document
+tex,text:template,TeX Document
+sty,text:template,TeX Document
+cls,text:template,TeX Document
 txt,text,Plain Text Document
 xml,text:data,XML Document
 xsd,text:data,XML Document
 xib,text:data,XML Document or Apple Interface Builder
 rss,text:data,XML Document and Rich Site Summary
 tld,text:data,XML Document and Tag Library Descriptor File
-cpt,na,XML Document
-xsl,na,XSL Stylesheet
-vcf,na,Electronic Business Card
+cpt,text:data,XML Document Current Proedural Terminology
+xsl,text:data,XSL Stylesheet
+vcf,text:data,Electronic Business Card
 yml,text:data,YAML Document
-nfo,na,Text Document
+nfo,text:data,Text Document
 ace,archive,ACE Compressed File
 ALZ,archive,ALZip Compressed File
 alz,archive,ALZip Compressed File
 APK,archive,Android Package
 apk,archive,Android Package
-aac,na,Advanced Audio Coding
+aac,media:audio,Advanced Audio Coding
 at3,archive,Sony's UMD Data Compression File
 arc,archive,Nintendo U8 Archive
 arj,archive,ARJ Compressed File
@@ -138,26 +138,26 @@ conf,text:configure,Generic Configuration File
 html,text:source code,HTML Document
 java,text:source code,Java Source
 json,text:data,JSON File
-ldif,na,LDAP Data Interchange Format
+ldif,text:data,LDAP Data Interchange Format
 less,text:source code,Less Source
 lisp,text:source code,Lisp Source
 logo,text:source code,Logo Source
-wiki,na,Mediawiki Document
-spim,na,MIPS Assembler Source
+wiki,text:template,Mediawiki Document
+spim,text:source code,MIPS Assembler Source
 perl,text:source code,Perl Source
 php3,text:source code,PHP Source
 php4,text:source code,PHP Source
 php5,text:source code,PHP Source
-dict,na,Property List
-rest,na,reStructuredText Document
+dict,text:data,Property List
+rest,text:template,reStructuredText Document
 rxml,text:source code,Ruby Source
 sass,text:source code,Sass Source
 scss,text:source code,Sass Source
 text,text,Plain text Document
 utf8,text,Plain Text Document
 toml,text:data,TOML File
-dtml,na,XML Document
-xslt,na,XSL Stylesheet
+dtml,text:template,XML Document
+xslt,text:template,XSL Stylesheet
 yaml,text:data,YAML Document
 appx,archive,Microsoft Application Package
 
@@ -166,34 +166,34 @@ coffee,text:source code,CoffeeScript Source
 COMMIT_EDITMSG,text:version control,Git
 dylan,text:source code,Dylan Source
 fscript,text:source code,F-Script source
-config,text:configuration,Generic Configuration File
-htaccess,text:configuration,Apache Configuration File
+config,text:configure,Generic Configuration File
+htaccess,text:configure,Apache Configuration File
 phtml,text:source code,HTML Document
 shtml,text:source code,HTML Document
-properties,na,Java Properties File
-markdown,text:source code,Markdown Document
-mdown,text:source code,Markdown Document
-markdn,text:source code,Markdown Document
-wikipedia,na,Mediawiki Document
-mediawiki,na,Mediawiki Document
-moinmoin,na,MoinMoin Document
+properties,text:source code,Java Properties File
+markdown,text:template,Markdown Document
+mdown,text:template,Markdown Document
+markdn,text:template,Markdown Document
+wikipedia,text:template,Mediawiki Document
+mediawiki,text:template,Mediawiki Document
+moinmoin,text:template,MoinMoin Document
 mustache,text:source code,Mustache Document
 patch,text:version control,Patch File
-plist,na,Property List
-scriptSuite,na,Property List
-scriptTerminology,na,Property List
-python,text:source code,Pyton Source
+plist,text:configure,Property List
+scriptSuite,text:source code,Property List
+scriptTerminology,text:source code,Property List
+python,text:source code,Python Source
 ragel,text:source code,Ragel Source
-remind,na,Remind Document
+remind,text:template,Remind Document
 rhtml,text:source code,HTML with embedded Ruby
 erbsql,text:source code,SQL with embedded Ruby
 bashrc,text:source code:script,Shell Script
 bash_profile,text:source code:script,Shell Script
 bash_login,text:source code:script,Shell Script
-profile,script,Shell Script
-bash_logout,script,Shell Script
+profile,text:source code:script,Shell Script
+bash_logout,text:source code:script,Shell Script
 slate,text:source code,Slate Source
-strings,na,Strings Document
-textile,na,Textile Document
-xhtml,na,XHTML Document
-vcard,na,Electronic Business Card
+strings,text:data,Strings Document
+textile,text:template,Textile Document
+xhtml,text:source code,XHTML Document
+vcard,text:data,Electronic Business Card

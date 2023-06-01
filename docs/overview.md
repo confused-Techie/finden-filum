@@ -58,9 +58,6 @@ The above list isn't great, so lets reclassify this:
   * `audio`: Any audio file.
   * `image`: And image file.
 - `executable`
-  * `macos`
-  * `windows`
-  * `linux`
 - `archive`
 - `text`
   * `source code`: Programming language files.
@@ -68,11 +65,11 @@ The above list isn't great, so lets reclassify this:
   * `office`: General Office files, such as Docs, PDFs, PowerPoint files etc.
   * `configure`: File is explicitly a configuration file.
   * `version control`: File is dedicated to a version control system. Likely not ever modified directly.
-
+  * `template`: The file serves as a templating methodology to display it's contents
 
 #### 3rd Tier Classifications
 
-- `text.source code.script`: Script files such as bash
+- `text:source code:script`: Script files such as bash
 
 ## Performance
 
