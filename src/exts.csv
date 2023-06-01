@@ -29,6 +29,8 @@ f77,source code,Fortran Source
 f90,source code,Fortran Source
 f95,source code,Fortran Source
 pch,source code,Header File
+cfg,configuration,Generic Configuration File
+dtd,definition,Document Type Definition
 
 scpt,source code,Compile AppleScript,
 aspx,source code,ASP.NET Source
@@ -39,9 +41,12 @@ cfdg,source code,Context Free Design Grammar
 cljs,source code,Clojure Source
 fcgi,source code,CGI Script
 diff,version control, Git Differences
+conf,configuration,Generic Configuration File
 
 applescript,source code,AppleScript Source
 coffee,source code,CoffeeScript Source
 COMMIT_EDITMSG,version control,Git
 dylan,source code,Dylan Source
 fscript,source code,F-Script source
+config,configuration,Generic Configuration File
+htaccess,configuration,Apache Configuration File
