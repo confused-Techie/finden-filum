@@ -1,11 +1,13 @@
 h,source code,Header File
 c,source code,C Source
 f,source code,Fortran Source
+
 as,source code,ActionScript Source
 cc,source code,C++ Source
 cp,source code,C++ Source
 cs,source code,C# Source
 hh,source code,C++ Header File
+
 adb,source code,ADA Source
 ads,source code,ADA Source
 asp,source code,ASP Source
@@ -26,7 +28,8 @@ fpp,source code,Fortran Source
 f77,source code,Fortran Source
 f90,source code,Fortran Source
 f95,source code,Fortran Source
-pch,source code,Header File 
+pch,source code,Header File
+
 scpt,source code,Compile AppleScript,
 aspx,source code,ASP.NET Source
 ascx,source code,ASP.NET Source
@@ -36,6 +39,7 @@ cfdg,source code,Context Free Design Grammar
 cljs,source code,Clojure Source
 fcgi,source code,CGI Script
 diff,version control, Git Differences
+
 applescript,source code,AppleScript Source
 coffee,source code,CoffeeScript Source
 COMMIT_EDITMSG,version control,Git

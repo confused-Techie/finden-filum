@@ -1,21 +1,22 @@
 const { performance } = require("node:perf_hooks");
-const ff = require("../src/main.js");
+let ff;
 
 const possibleExts = [ "hello.txt", "file.h", "my.file.adb", "tester.scpt" ];
-const loops = 2000;
+const loops = 4000;
 
 /**
  * Results:
  * Last run:
- *  - max: 0.4824000597000122
- *  - min: 0.00019991397857666016
- *  - avg: 0.011161997318267822
+ *  - max: 0.4398000240325928
+ *  - min: 0.00019979476928710938
+ *  - avg: 0.0007481237649917602
  */
 
 function main() {
   // The basic idea is we can call our test over and over and over, eventually
   // averaging the values we receive.
 
+  ff = require("../src/main.js");
   let times = [];
 
   for (let i = 0; i < loops; i++) {
