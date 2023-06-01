@@ -45,6 +45,10 @@ Below are the recognized values:
 - `text`: Refers to any file that is largely general purpose in use, and represents simple text. Such as TXT, CSV, TSV.
 - `configuration`: Refers to any file that is explicitely a configuration file. While many files can effect the configuration of a program, only a few are intended as such.
 - `definition`: Refers to any file that serves as a definition of other files or elements.
+- `script`: Refers to any file that serves as a scripting language.
+- `data`: Refers to any file that serves as a method to store specific data. Such as JSON, or CSON
+- `template`: Refers to any templating file, a file that serves to display text differently. Such as MD
+- `na`: Refers to any file not yet determined.
 
 ## Performance
 
@@ -55,3 +59,45 @@ The last tested benchmarks report the following:
 - Maximum Time to Return extension data: `0.4398000240325928`ms
 - Minimum Time to Return extension data: `0.00019979476928710938`ms
 - Average Time to Return extension data: `0.0007481237649917602`ms
+
+## Todo
+
+Extension to be added:
+
+- g: source
+- vss: Source
+- d: source
+- e: source
+- gri: source
+- inf: source
+- mel: source
+- build: source
+- re: source
+- textmate: source
+- fxscript: source
+- lgt: source
+- cfm: document
+- cfml: document
+- dbm: document
+- dist: document
+- dot: document
+- ics: document
+- ifb: document
+- ifb: document
+- dwt: document
+- g: document
+- in: Document
+- l: document
+- m4: document
+- mp: document
+- mtml: document
+- orig: document
+- pde: document
+- rej: document
+- servlet: document
+- s5: document
+- tmp: document
+- tpl: document
+- tt: document
+- xql: document
+- yy: document

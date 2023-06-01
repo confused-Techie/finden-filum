@@ -1,12 +1,38 @@
-h,source code,Header File
+h,source code,Header File or Haskell Source
 c,source code,C Source
 f,source code,Fortran Source
+l,source code,Lisp Source
+s,source code,MIPS Assembler Source or R Source
+m,source code,Objective-C Source
+p,source code,Pascal Source
+r,source code,R Source
+i,source code,SWIG Source
 
 as,source code,ActionScript Source
 cc,source code,C++ Source
 cp,source code,C++ Source
 cs,source code,C# Source
 hh,source code,C++ Header File
+go,source code,Golang Source
+io,source code,Io Source
+js,source code,JavaScript Source
+cl,source code,Lisp Source
+el,source code,Lisp Source
+md,template,Markdown Document
+mk,source code,Makefile Source
+m3,source code,Modula-3 Source
+mm,source code,Objective-C Source
+ml,source code,OCaml Source
+pl,source code,Perl Source
+pm,source code,Perl Module
+ps,source code,PostScript Source
+py,source code,Python Source
+rl,source code,Ragel Source
+rb,source code,Ruby Source
+sh,script,Shell Script
+ss,script,Shell Script
+pt,na,XML Document
+vb,source code,Visual Basic Source
 
 adb,source code,ADA Source
 ads,source code,ADA Source
@@ -31,6 +57,62 @@ f95,source code,Fortran Source
 pch,source code,Header File
 cfg,configuration,Generic Configuration File
 dtd,definition,Document Type Definition
+hpp,source code,C++ Header
+hxx,source code,C++ Header
+h++,source code,C++ Header
+gtd,na,GTD Document
+hls,source code,Haskell Source
+htm,source code,HTML Document
+inc,na,Include File
+ics,na,iCalendar Schedule
+ini,na,MS Window Initialization File
+bsh,script,BeanShell Script
+htc,source code,JavaScript Source
+jsp,na,Java Server Page
+lsp,source code,Lisp Source
+mud,source code,Lisp Source
+log,na,Log File
+lua,source code,Lua Source
+mips,na,MIPS Assembler Source
+asm,na,MIPS Assembler Source
+cm3,source code,Module-3 Source
+mli,source code,OCaml Source
+mll,source code,OCaml Source
+mly,source code,OCaml Source
+hbs,template,Mustache Document
+pas,source code,Pascal Source
+pod,source code,Perl Source
+php,source code,PHP Source
+eps,source code,PostScript Source
+rpy,source code,Python Source
+cpy,source code,Python Source
+rem,na,Remind Document
+rst,na,reStructuredText Document
+erb,source code,HTML with embedded Ruby
+rbx,source code,Ruby Source
+rjs,source code,Ruby Source
+scm,source code,Scheme Source
+sch,source code,Scheme Source
+ext,na,Setext Document
+sql,source code,SQL Source
+sml,source code,Standard ML Source
+svg,na,Scalable Vector Graphics
+swg,source code,SWIG Source
+tcl,source code,Tcl Source
+tex,na,TeX Document
+sty,na,TeX Document
+cls,na,TeX Document
+txt,text,Plain Text Document
+xml,na,XML Document
+xsd,na,XML Document
+xib,na,XML Document
+rss,na,XML Document
+tld,na,XML Document
+cpt,na,XML Document
+xsl,na,XSL Stylesheet
+vcf,na,Electronic Business Card
+yml,data,YAML Document
+nfo,na,Text Document
 
 scpt,source code,Compile AppleScript,
 aspx,source code,ASP.NET Source
@@ -42,6 +124,30 @@ cljs,source code,Clojure Source
 fcgi,source code,CGI Script
 diff,version control, Git Differences
 conf,configuration,Generic Configuration File
+html,source code,HTML Document
+java,source code,Java Source
+json,data,JSON File
+ldif,na,LDAP Data Interchange Format
+less,source code,Less Source
+lisp,source code,Lisp Source
+logo,source code,Logo Source
+wiki,na,Mediawiki Document
+spim,na,MIPS Assembler Source
+perl,source code,Perl Source
+php3,source code,PHP Source
+php4,source code,PHP Source
+php5,source code,PHP Source
+dict,na,Property List
+rest,na,reStructuredText Document
+rxml,source code,Ruby Source
+sass,source code,Sass Source
+scss,source code,Sass Source
+text,text,Plain text Document
+utf8,text,Plain Text Document
+toml,data,TOML File
+dtml,na,XML Document
+xslt,na,XSL Stylesheet
+yaml,data,YAML Document
 
 applescript,source code,AppleScript Source
 coffee,source code,CoffeeScript Source
@@ -50,3 +156,32 @@ dylan,source code,Dylan Source
 fscript,source code,F-Script source
 config,configuration,Generic Configuration File
 htaccess,configuration,Apache Configuration File
+phtml,source code,HTML Document
+shtml,source code,HTML Document
+properties,na,Java Properties File
+markdown,template,Markdown Document
+mdown,template,Markdown Document
+markdn,template,Markdown Document
+wikipedia,na,Mediawiki Document
+mediawiki,na,Mediawiki Document
+moinmoin,na,MoinMoin Document
+mustache,template,Mustache Document
+patch,version control,Patch File
+plist,na,Property List
+scriptSuite,na,Property List
+scriptTerminology,na,Property List
+python,source code,Pyton Source
+ragel,source code,Ragel Source
+remind,na,Remind Document
+rhtml,source code,HTML with embedded Ruby
+erbsql,source code,SQL with embedded Ruby
+bashrc,script,Shell Script
+bash_profile,script,Shell Script
+bash_login,script,Shell Script
+profile,script,Shell Script
+bash_logout,script,Shell Script
+slate,source code,Slate Source
+strings,na,Strings Document
+textile,na,Textile Document
+xhtml,na,XHTML Document
+vcard,na,Electronic Business Card
