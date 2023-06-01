@@ -1,119 +1,119 @@
-h,source code,Header File or Haskell Source
-c,source code,C Source
-f,source code,Fortran Source
-l,source code,Lisp Source
-s,source code,MIPS Assembler Source or R Source
-m,source code,Objective-C Source
-p,source code,Pascal Source
-r,source code,R Source
-i,source code,SWIG Source
-a,na,External File Extension for C/C++
+h,text:source code,Header File or Haskell Source
+c,text:source code,C Source
+f,text:source code,Fortran Source
+l,text:source code,Lisp Source
+s,text:source code,MIPS Assembler Source or R Source
+m,text:source code,Objective-C Source
+p,text:source code,Pascal Source
+r,text:source code,R Source
+i,text:source code,SWIG Source
+a,text:source code,C/C++ Static Library
 
-as,source code,ActionScript Source
-cc,source code,C++ Source
-cp,source code,C++ Source
-cs,source code,C# Source
-hh,source code,C++ Header File
-go,source code,Golang Source
-io,source code,Io Source
-js,source code,JavaScript Source
-cl,source code,Lisp Source
-el,source code,Lisp Source
-md,template,Markdown Document
-mk,source code,Makefile Source
-m3,source code,Modula-3 Source
-mm,source code,Objective-C Source
-ml,source code,OCaml Source
-pl,source code,Perl Source
-pm,source code,Perl Module
-ps,source code,PostScript Source
-py,source code,Python Source
-rl,source code,Ragel Source
-rb,source code,Ruby Source
-sh,script,Shell Script
-ss,script,Shell Script
-pt,na,XML Document
-vb,source code,Visual Basic Source
+as,text:source code,ActionScript Source
+cc,text:source code,C++ Source
+cp,text:source code,C++ Source
+cs,text:source code,C# Source
+hh,text:source code,C++ Header File
+go,text:source code,Golang Source
+io,text:source code,Io Source
+js,text:source code,JavaScript Source
+cl,text:source code,Lisp Source
+el,text:source code,Lisp Source
+md,text:source code,Markdown Document
+mk,text:source code,Makefile Source
+m3,text:source code,Modula-3 Source
+mm,text:source code,Objective-C Source
+ml,text:source code,OCaml Source
+pl,text:source code,Perl Source
+pm,text:source code,Perl Module
+ps,text:source code,PostScript Source
+py,text:source code,Python Source
+rl,text:source code,Ragel Source
+rb,text:source code,Ruby Source
+sh,text:source code,Shell Script
+ss,text:source code,Shell Script
+pt,text:data,PyTorch Model File
+vb,text:source code,Visual Basic Source
 7z,archive,7-Zip Compressed File
 
-adb,source code,ADA Source
-ads,source code,ADA Source
-asp,source code,ASP Source
-asa,source code,ASP Source
-bib,source code,BibTeX Bibliography
-cpp,source code,C++ Source
-cxx,source code,C++ Source
-c++,source code,C++ Source
-clj,source code,Clojure Source
-csv,text,Comma Separated Values
-tsv,text,Tab Separated Values
-cgi,source code,GCI Script
-css,source code,Cascading Style Sheet
-erl,source code,Erlang Source
-hrl,source code,Erlang Source
-for,source code,Fortran Source
-fpp,source code,Fortran Source
-f77,source code,Fortran Source
-f90,source code,Fortran Source
-f95,source code,Fortran Source
-pch,source code,Header File
-cfg,configuration,Generic Configuration File
-dtd,definition,Document Type Definition
-hpp,source code,C++ Header
-hxx,source code,C++ Header
-h++,source code,C++ Header
-gtd,na,GTD Document
-hls,source code,Haskell Source
-htm,source code,HTML Document
+adb,text:source code,ADA Source
+ads,text:source code,ADA Source
+asp,text:source code,ASP Source
+asa,text:source code,ASP Source
+bib,text:source code,BibTeX Bibliography
+cpp,text:source code,C++ Source
+cxx,text:source code,C++ Source
+c++,text:source code,C++ Source
+clj,text:source code,Clojure Source
+csv,text:data,Comma Separated Values
+tsv,text:data,Tab Separated Values
+cgi,text:source code,GCI Script
+css,text:source code,Cascading Style Sheet
+erl,text:source code,Erlang Source
+hrl,text:source code,Erlang Source
+for,text:source code,Fortran Source
+fpp,text:source code,Fortran Source
+f77,text:source code,Fortran Source
+f90,text:source code,Fortran Source
+f95,text:source code,Fortran Source
+pch,text:source code,Header File
+cfg,text:configure,Generic Configuration File
+dtd,text,Document Type Definition
+hpp,text:source code,C++ Header
+hxx,text:source code,C++ Header
+h++,text:source code,C++ Header
+gtd,text,GTD Document
+hls,text:source code,Haskell Source
+htm,text:source code,HTML Document
 inc,na,Include File
 ics,na,iCalendar Schedule
 ini,na,MS Window Initialization File
 bsh,script,BeanShell Script
-htc,source code,JavaScript Source
+htc,text:source code,JavaScript Source
 jsp,na,Java Server Page
-lsp,source code,Lisp Source
-mud,source code,Lisp Source
+lsp,text:source code,Lisp Source
+mud,text:source code,Lisp Source
 log,na,Log File
-lua,source code,Lua Source
+lua,text:source code,Lua Source
 mips,na,MIPS Assembler Source
 asm,na,MIPS Assembler Source
-cm3,source code,Module-3 Source
-mli,source code,OCaml Source
-mll,source code,OCaml Source
-mly,source code,OCaml Source
-hbs,template,Mustache Document
-pas,source code,Pascal Source
-pod,source code,Perl Source
-php,source code,PHP Source
-eps,source code,PostScript Source
-rpy,source code,Python Source
-cpy,source code,Python Source
+cm3,text:source code,Module-3 Source
+mli,text:source code,OCaml Source
+mll,text:source code,OCaml Source
+mly,text:source code,OCaml Source
+hbs,text:source-code,Mustache Document
+pas,text:source code,Pascal Source
+pod,text:source code,Perl Source
+php,text:source code,PHP Source
+eps,text:source code,PostScript Source
+rpy,text:source code,Python Source
+cpy,text:source code,Python Source
 rem,na,Remind Document
 rst,na,reStructuredText Document
-erb,source code,HTML with embedded Ruby
-rbx,source code,Ruby Source
-rjs,source code,Ruby Source
-scm,source code,Scheme Source
-sch,source code,Scheme Source
+erb,text:source code,HTML with embedded Ruby
+rbx,text:source code,Ruby Source
+rjs,text:source code,Ruby Source
+scm,text:source code,Scheme Source
+sch,text:source code,Scheme Source
 ext,na,Setext Document
-sql,source code,SQL Source
-sml,source code,Standard ML Source
+sql,text:source code,SQL Source
+sml,text:source code,Standard ML Source
 svg,na,Scalable Vector Graphics
-swg,source code,SWIG Source
-tcl,source code,Tcl Source
+swg,text:source code,SWIG Source
+tcl,text:source code,Tcl Source
 tex,na,TeX Document
 sty,na,TeX Document
 cls,na,TeX Document
 txt,text,Plain Text Document
-xml,data,XML Document
-xsd,definition,XML Document
-xib,template,XML Document or Apple Interface Builder
-rss,data,XML Document and Rich Site Summary
-tld,definition,XML Document and Tag Library Descriptor File
+xml,text:data,XML Document
+xsd,text:data,XML Document
+xib,text:data,XML Document or Apple Interface Builder
+rss,text:data,XML Document and Rich Site Summary
+tld,text:data,XML Document and Tag Library Descriptor File
 cpt,na,XML Document
 xsl,na,XSL Stylesheet
 vcf,na,Electronic Business Card
-yml,data,YAML Document
+yml,text:data,YAML Document
 nfo,na,Text Document
 ace,archive,ACE Compressed File
 ALZ,archive,ALZip Compressed File
@@ -125,74 +125,74 @@ at3,archive,Sony's UMD Data Compression File
 arc,archive,Nintendo U8 Archive
 arj,archive,ARJ Compressed File
 
-scpt,source code,Compile AppleScript,
-aspx,source code,ASP.NET Source
-ascx,source code,ASP.NET Source
-asmx,source code,ASP.NET Source
-ashx,source code,ASP.NET Source
-cfdg,source code,Context Free Design Grammar
-cljs,source code,Clojure Source
-fcgi,source code,CGI Script
-diff,version control, Git Differences
-conf,configuration,Generic Configuration File
-html,source code,HTML Document
-java,source code,Java Source
-json,data,JSON File
+scpt,text:source code,Compile AppleScript,
+aspx,text:source code,ASP.NET Source
+ascx,text:source code,ASP.NET Source
+asmx,text:source code,ASP.NET Source
+ashx,text:source code,ASP.NET Source
+cfdg,text:source code,Context Free Design Grammar
+cljs,text:source code,Clojure Source
+fcgi,text:source code,CGI Script
+diff,text:version control, Git Differences
+conf,text:configure,Generic Configuration File
+html,text:source code,HTML Document
+java,text:source code,Java Source
+json,text:data,JSON File
 ldif,na,LDAP Data Interchange Format
-less,source code,Less Source
-lisp,source code,Lisp Source
-logo,source code,Logo Source
+less,text:source code,Less Source
+lisp,text:source code,Lisp Source
+logo,text:source code,Logo Source
 wiki,na,Mediawiki Document
 spim,na,MIPS Assembler Source
-perl,source code,Perl Source
-php3,source code,PHP Source
-php4,source code,PHP Source
-php5,source code,PHP Source
+perl,text:source code,Perl Source
+php3,text:source code,PHP Source
+php4,text:source code,PHP Source
+php5,text:source code,PHP Source
 dict,na,Property List
 rest,na,reStructuredText Document
-rxml,source code,Ruby Source
-sass,source code,Sass Source
-scss,source code,Sass Source
+rxml,text:source code,Ruby Source
+sass,text:source code,Sass Source
+scss,text:source code,Sass Source
 text,text,Plain text Document
 utf8,text,Plain Text Document
-toml,data,TOML File
+toml,text:data,TOML File
 dtml,na,XML Document
 xslt,na,XSL Stylesheet
-yaml,data,YAML Document
+yaml,text:data,YAML Document
 appx,archive,Microsoft Application Package
 
-applescript,source code,AppleScript Source
-coffee,source code,CoffeeScript Source
-COMMIT_EDITMSG,version control,Git
-dylan,source code,Dylan Source
-fscript,source code,F-Script source
-config,configuration,Generic Configuration File
-htaccess,configuration,Apache Configuration File
-phtml,source code,HTML Document
-shtml,source code,HTML Document
+applescript,text:source code,AppleScript Source
+coffee,text:source code,CoffeeScript Source
+COMMIT_EDITMSG,text:version control,Git
+dylan,text:source code,Dylan Source
+fscript,text:source code,F-Script source
+config,text:configuration,Generic Configuration File
+htaccess,text:configuration,Apache Configuration File
+phtml,text:source code,HTML Document
+shtml,text:source code,HTML Document
 properties,na,Java Properties File
-markdown,template,Markdown Document
-mdown,template,Markdown Document
-markdn,template,Markdown Document
+markdown,text:source code,Markdown Document
+mdown,text:source code,Markdown Document
+markdn,text:source code,Markdown Document
 wikipedia,na,Mediawiki Document
 mediawiki,na,Mediawiki Document
 moinmoin,na,MoinMoin Document
-mustache,template,Mustache Document
-patch,version control,Patch File
+mustache,text:source code,Mustache Document
+patch,text:version control,Patch File
 plist,na,Property List
 scriptSuite,na,Property List
 scriptTerminology,na,Property List
-python,source code,Pyton Source
-ragel,source code,Ragel Source
+python,text:source code,Pyton Source
+ragel,text:source code,Ragel Source
 remind,na,Remind Document
-rhtml,source code,HTML with embedded Ruby
-erbsql,source code,SQL with embedded Ruby
-bashrc,script,Shell Script
-bash_profile,script,Shell Script
-bash_login,script,Shell Script
+rhtml,text:source code,HTML with embedded Ruby
+erbsql,text:source code,SQL with embedded Ruby
+bashrc,text:source code:script,Shell Script
+bash_profile,text:source code:script,Shell Script
+bash_login,text:source code:script,Shell Script
 profile,script,Shell Script
 bash_logout,script,Shell Script
-slate,source code,Slate Source
+slate,text:source code,Slate Source
 strings,na,Strings Document
 textile,na,Textile Document
 xhtml,na,XHTML Document

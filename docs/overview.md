@@ -38,22 +38,45 @@ The categories being exact is what ensures that this package can be easily used.
 
 The full list of categories must strive to be as small as possible to allow for dependents of this package to easily check for all possibilities.
 
-Below are the recognized values:
+Such as the proposed feature highlighted below, different dependents will want different levels of specificity, rather than build out a platform of varying specificity, we can instead provide that varying specificity based on our increasingly specific classification. For example the following file format: `.mkv` in a very broad sense would get `av` for it's classification, of visual media. But if the dependent really cared only about AV material this is in no way specific enough. So we could instead define the classification as `av:video` which for generic dependents, `av` might be enough, but for those interested, they can check the additional classifications. This could either be returned as an array of items, or it may be time to look at instead of returning a generic object, we setup a custom object to return that can have methods baked in.
 
-- `source code`: Refers tof iles that are written in a programming language.
-- `version control`: Refers to files that are directly used for version control. Liekly themselves never written directly to.
-- `text`: Refers to any file that is largely general purpose in use, and represents simple text. Such as TXT, CSV, TSV.
-- `configuration`: Refers to any file that is explicitely a configuration file. While many files can effect the configuration of a program, only a few are intended as such.
-- `definition`: Refers to any file that serves as a definition of other files or elements.
-- `script`: Refers to any file that serves as a scripting language.
-- `data`: Refers to any file that serves as a method to store specific data. Such as JSON, or CSON
-- `template`: Refers to any templating file, a file that serves to display text differently. Such as Markdown
-- `archive`: Refers to any compressed or archived filetype.
-- `na`: Refers to any file not yet determined.
+But with this idea, this means the most generic, or lets say '1st Tier' classification is listed first, then increasingly specific classifications start after `:` and move onto '2nd Tier' classifications. It's unlikely that everything needs additional classifications, but if they do, it should be listed in descending order.
+
+The above list isn't great, so lets reclassify this:
+
+#### 1st Tier Classifications
+
+- `media`: Any files for serving media, such as images, video, and audio.
+- `text`: Any generic file that can be opened within a text editor.
+- `executable`: Generally a binary file, that is able to be run as an application.
+- `archive`: A compressed or archived file.
+
+#### 2nd Tier Classifications
+
+- `media`
+  * `video`: Any video file.
+  * `audio`: Any audio file.
+  * `image`: And image file.
+- `executable`
+  * `macos`
+  * `windows`
+  * `linux`
+- `archive`
+- `text`
+  * `source code`: Programming language files.
+  * `data`: File contains data, generally not intended to be interacted with directly.
+  * `office`: General Office files, such as Docs, PDFs, PowerPoint files etc.
+  * `configure`: File is explicitly a configuration file.
+  * `version control`: File is dedicated to a version control system. Likely not ever modified directly.
+
+
+#### 3rd Tier Classifications
+
+- `text.source code.script`: Script files such as bash
 
 ## Performance
 
-Performance has been a huge focus when creating this library. While originally this was thought to be achieved via a complex setup of optionally required HashMaps based on length of extension, in the end it was found that at a slight sacrafice to RAM usage the fastest method was a single HashMap.
+Performance has been a huge focus when creating this library. While originally this was thought to be achieved via a complex setup of optionally required HashMaps based on length of extension, in the end it was found that at a slight sacrifice to RAM usage the fastest method was a single HashMap.
 
 The last tested benchmarks report the following:
 
