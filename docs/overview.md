@@ -47,7 +47,8 @@ Below are the recognized values:
 - `definition`: Refers to any file that serves as a definition of other files or elements.
 - `script`: Refers to any file that serves as a scripting language.
 - `data`: Refers to any file that serves as a method to store specific data. Such as JSON, or CSON
-- `template`: Refers to any templating file, a file that serves to display text differently. Such as MD
+- `template`: Refers to any templating file, a file that serves to display text differently. Such as Markdown
+- `archive`: Refers to any compressed or archived filetype.
 - `na`: Refers to any file not yet determined.
 
 ## Performance
@@ -61,6 +62,14 @@ The last tested benchmarks report the following:
 - Average Time to Return extension data: `0.0007481237649917602`ms
 
 ## Todo
+
+Features to be Added:
+
+- Some file types extension is not defined by the last portion of the `.%` such as 7zip multipart files which would look like: `%.7z.001`
+  It could be beneficial to introduce support for an exhustive config option, where if no match is found the last dot is taken, as well as the dot before it, and searched again. This repeats until there are no more possible docs to consume, and will only then return empty.
+- While rare, it seems some extensions are not static. Such as SQ Compressed files, which would take `.?Q?` where `?` is the single character of what the file originally was. Such as `.EXE` => `.EQE` or `.gitignore` => `.gitiQnore`. It may be difficult, but could be interesting to support these instances by allowed regex like searchings for any items that contain a subset of special characters. Such as `%` to represent `.*` in Regex or `?` to represent `.` in Regex.
+- Split Definitions: As we have already seen some file extensions are reused, such as `.h` for a Header File, or Haskell Source Code. Currently these are affixed with `or` but we could use `|` to indicate this is a split, and instead return an array?
+- Common Classes: Since as all of these extensions are classified, I've already found the list to be growing and growing, while many of these will have uses for programmers, if your file focused on media, you don't want to have to check for a dozen different programming classes. So it may be worth it to either additionally export a function that acts as a translation between many classes into very few, or filters them out based on topic, such as using `{ filter: 'av' }` to simply the classification of extensions not relevent to digital media to say just "dev files" meanwhile we leave the classification of anything relevant to digital media full.
 
 Extension to be added:
 

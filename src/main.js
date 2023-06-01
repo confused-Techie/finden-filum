@@ -8,6 +8,7 @@ const exts = require("./loadExts.js")();
  * @param {object} [opts] - Options to pass
  * @param {boolean} [opts.extension] - Returns the text of the extension only if true.
  * @param {boolean} [opts.full] - Returns the full object for the extension if true.
+ * @param {boolean} [opts.map] - Returns the full hashmap for every known extension if true.
  */
 module.exports = function (value, opts = {}) {
   let fileNameArray = value.split(".");
@@ -15,6 +16,10 @@ module.exports = function (value, opts = {}) {
 
   if (opts.extension) {
     return ext;
+  }
+
+  if (opts.map) {
+    return exts;
   }
 
   let extension = exts.get(ext);

@@ -7,6 +7,7 @@ m,source code,Objective-C Source
 p,source code,Pascal Source
 r,source code,R Source
 i,source code,SWIG Source
+a,na,External File Extension for C/C++
 
 as,source code,ActionScript Source
 cc,source code,C++ Source
@@ -33,6 +34,7 @@ sh,script,Shell Script
 ss,script,Shell Script
 pt,na,XML Document
 vb,source code,Visual Basic Source
+7z,archive,7-Zip Compressed File
 
 adb,source code,ADA Source
 ads,source code,ADA Source
@@ -103,16 +105,25 @@ tex,na,TeX Document
 sty,na,TeX Document
 cls,na,TeX Document
 txt,text,Plain Text Document
-xml,na,XML Document
-xsd,na,XML Document
-xib,na,XML Document
-rss,na,XML Document
-tld,na,XML Document
+xml,data,XML Document
+xsd,definition,XML Document
+xib,template,XML Document or Apple Interface Builder
+rss,data,XML Document and Rich Site Summary
+tld,definition,XML Document and Tag Library Descriptor File
 cpt,na,XML Document
 xsl,na,XSL Stylesheet
 vcf,na,Electronic Business Card
 yml,data,YAML Document
 nfo,na,Text Document
+ace,archive,ACE Compressed File
+ALZ,archive,ALZip Compressed File
+alz,archive,ALZip Compressed File
+APK,archive,Android Package
+apk,archive,Android Package
+aac,na,Advanced Audio Coding
+at3,archive,Sony's UMD Data Compression File
+arc,archive,Nintendo U8 Archive
+arj,archive,ARJ Compressed File
 
 scpt,source code,Compile AppleScript,
 aspx,source code,ASP.NET Source
@@ -148,6 +159,7 @@ toml,data,TOML File
 dtml,na,XML Document
 xslt,na,XSL Stylesheet
 yaml,data,YAML Document
+appx,archive,Microsoft Application Package
 
 applescript,source code,AppleScript Source
 coffee,source code,CoffeeScript Source

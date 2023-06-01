@@ -19,6 +19,6 @@ module.exports = function() {
       ...(typeof cols[4] === "string" && { description: cols[4].trim() } )
     });
 
-    return map;
   }
+  return map;
 };

@@ -7,6 +7,9 @@
     "test": "node --test test/",
     "benchmark": "node ./benchmarks/benchmark.js"
   },
+  "bin": {
+    "ff": "./bin/cli.js"
+  },
   "author": "confused-Techie",
   "license": "MIT"
 }
