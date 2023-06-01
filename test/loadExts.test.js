@@ -3,7 +3,7 @@ const assert = require("node:assert");
 
 const map = require("../src/loadExts.js")();
 const CATEGORIES = [
-  "media", "text", "executable", "archive",
+  "media", "text", "executable", "archive", "binary",
   "video", "audio", "image", "source code", "data", "office", "configure",
   "version control", "template",
   "script"
@@ -15,16 +15,11 @@ map.forEach((value, key) => {
 
   describe("ensure map is valid", () => {
 
-    it("category is valid", () => {
+    it(`category is valid for '${key}'`, () => {
       let cats = value.category.split(":");
 
       for (let i = 0; i < cats.length; i++) {
-        try {
-          assert.strictEqual(CATEGORIES.includes(cats[i]), true);
-        } catch(err) {
-          console.error(`Expected: ${cats[i]} to be within Categories`);
-          throw err;
-        }
+        assert.strictEqual(CATEGORIES.includes(cats[i]), true);
       }
     });
 

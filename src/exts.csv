@@ -7,7 +7,9 @@ m,text:source code,Objective-C Source
 p,text:source code,Pascal Source
 r,text:source code,R Source
 i,text:source code,SWIG Source
-a,text:source code,C/C++ Static Library
+a,binary,C/C++ Static Archive Library
+o,binary,Visual Studio Compiled Source
+z,archive,Unix compressed file format
 
 as,text:source code,ActionScript Source
 cc,text:source code,C++ Source
@@ -35,6 +37,10 @@ ss,text:source code,Shell Script
 pt,text:data,PyTorch Model File
 vb,text:source code,Visual Basic Source
 7z,archive,7-Zip Compressed File
+so,binary,C/C++ Shared Library
+gz,archive,Gzip Compressed File
+lz,archive,File Compressed with Lempel-Ziv-Welch
+xz,archive,Compressed File
 
 adb,text:source code,ADA Source
 ads,text:source code,ADA Source
@@ -124,6 +130,29 @@ aac,media:audio,Advanced Audio Coding
 at3,archive,Sony's UMD Data Compression File
 arc,archive,Nintendo U8 Archive
 arj,archive,ARJ Compressed File
+exe,executable,Windows Executable
+pyc,binary,Compiled Python Source
+pyo,binary,Compiled Python Source
+bz2,archive,Compressed file from bzip2
+egg,archive,EGG Compressed file
+gem,archive,Ruby Compressed Source File
+jar,archive,Java Compressed Source
+lzo,archive,File Compressed with Lempel-Ziv-Oberhumer
+rar,archive,WinRAR Compressed File
+tar,archive,Tarball Compressed File
+tgz,archive,File Compressed with gzip
+war,archive,Gzipped-Tar Compressed file intended for the web.
+whl,archive,Python Wheel Package File
+xpi,archive,File Compressed via XPInstall
+zip,archive,Compressed File
+gif,media:image,Graphics Interchange Format File
+ico,media:image,Image File Format by Microsoft
+jpg,media:image,Image compressed via technology made by Joint Photographic Experts Group
+png,media:image,Portable Network Graphics Image
+tif,media:image,Tag Image File Format
+mkd,text:template,Markdown Document
+rmd,text:template,Markdown Document
+ron,text:template,Markdown Document
 
 scpt,text:source code,Compile AppleScript,
 aspx,text:source code,ASP.NET Source
@@ -160,6 +189,12 @@ dtml,text:template,XML Document
 xslt,text:template,XSL Stylesheet
 yaml,text:data,YAML Document
 appx,archive,Microsoft Application Package
+woff,binary,Font File Format
+epub,archive,E-Book File Format
+lzma,archive,File Compressed with Lempel-Ziv-Markov Chain Algorithm
+jpeg,media:image,Image compressed via technology made by Joint Photographic Experts Group
+tiff,media:image,Tag Image File Format
+webp,media:image,Image format intended for the Web
 
 applescript,text:source code,AppleScript Source
 coffee,text:source code,CoffeeScript Source
@@ -197,3 +232,5 @@ strings,text:data,Strings Document
 textile,text:template,Textile Document
 xhtml,text:source code,XHTML Document
 vcard,text:data,Electronic Business Card
+ds_store,binary,macOS File System Information
+mkdown,text:template,Markdown Document

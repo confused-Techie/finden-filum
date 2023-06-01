@@ -4,10 +4,10 @@ const assert = require("node:assert");
 const ff = require("../src/main.js");
 
 describe("works as expected", () => {
-  
+
   it("is exported properly", () => {
     assert.strictEqual(typeof ff, "function");
-    assert.strictEqual(typeof ff("hello.h"), "string");
+    assert.strictEqual(typeof ff("hello.h").category, "string");
   });
 
   it("returns extension when asked", () => {

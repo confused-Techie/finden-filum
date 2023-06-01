@@ -1,4 +1,5 @@
 const exts = require("./loadExts.js")();
+const ExtObj = require("./extObj.js");
 
 /**
  * @function ff
@@ -7,7 +8,6 @@ const exts = require("./loadExts.js")();
  * @param {string} value - The filename or path to inspect of the specific file.
  * @param {object} [opts] - Options to pass
  * @param {boolean} [opts.extension] - Returns the text of the extension only if true.
- * @param {boolean} [opts.full] - Returns the full object for the extension if true.
  * @param {boolean} [opts.map] - Returns the full hashmap for every known extension if true.
  */
 module.exports = function (value, opts = {}) {
@@ -28,9 +28,5 @@ module.exports = function (value, opts = {}) {
     return undefined;
   }
 
-  if (opts.full) {
-    return extension;
-  }
-
-  return extension.category;
+  return new ExtObj(extension);
 }

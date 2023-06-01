@@ -50,6 +50,7 @@ The above list isn't great, so lets reclassify this:
 - `text`: Any generic file that can be opened within a text editor.
 - `executable`: Generally a binary file, that is able to be run as an application.
 - `archive`: A compressed or archived file.
+- `binary`: A binary file.
 
 #### 2nd Tier Classifications
 

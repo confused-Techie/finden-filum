@@ -9,8 +9,6 @@ async function main(params) {
   for (const param of params) {
     if (param.startsWith("--extension")) {
       opts.extension = true;
-    } else if (param.startsWith("--full")) {
-      opts.full = true;
     } else if (param.startsWith("--map")) {
       opts.map = true;
     } else {
@@ -33,7 +31,7 @@ async function main(params) {
     process.exit(0);
   }
 
-  for (const [key, value] of Object.entries(res)) {
+  for (const [key, value] of Object.entries(res.getFull())) {
     console.log(`- ${(key.charAt(0).toUpperCase()) + (key.slice(1))}: ${value}`);
   }
   process.exit(0);
