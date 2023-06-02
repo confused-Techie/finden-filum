@@ -41,6 +41,9 @@ so,binary,C/C++ Shared Library
 gz,archive,Gzip Compressed File
 lz,archive,File Compressed with Lempel-Ziv-Welch
 xz,archive,Compressed File
+ai,media:image,Adobe Illustrator Artwork image file
+ct,media:image,Continuous Tone File
+mp,media:image,MetaPost programming language generated images
 
 adb,text:source code,ADA Source
 ads,text:source code,ADA Source
@@ -153,6 +156,58 @@ tif,media:image,Tag Image File Format
 mkd,text:template,Markdown Document
 rmd,text:template,Markdown Document
 ron,text:template,Markdown Document
+afx,media:image,Image File from Auto FX PhotoGraphic Edges
+apg,media:image,32-bit image from ArtGem software
+apm,media:image,Image file from Aldus Placeable Metafile format
+art,media:image,AOL Image File
+bif,media:image,Multi-TIFF Images combined
+bpm,media:image,Bitmap Image
+bpg,media:image,Better Portable Graphics
+cdr,media:image,CorelDRAW Image
+cmx,media:image,Corel Exchange Image File
+cpc,media:image,Cartesian Perceptual Compression
+cr2,media:image,Camera RAW 2 File Format from Canon cameras
+cr3,media:image,Camera RAW 3 File Format from Canon cameras
+csl,media:image,Corel Symbol Library File format
+cur,media:image,Microsoft Windows Cursor Image format
+dcm,media:image,MRIs and CT scan file format
+dcr,media:image,Kodak Digital Camera RAW format
+dcx,media:image,Digital FAX File Format
+dds,media:image,DirectDraw Surface File
+dib,media:image,Device-Independent bitmap
+dng,media:image,Digital Camera Image Format
+ecw,media:image,Enhanced Compression Wevelet format for images with geospatial data
+emf,media:image,Enhanced metafile format for graphical images device-independent
+emz,media:image,Enhanced Metafile compressed with GZIP
+gbr,media:image,Gerber image file format for PCB design transfer
+hdr,media:image,High Dynamic Range image format
+j2c,media:image,JPEG Variant
+j2k,media:image,JPEG 2000 Variant
+jp2,media:image,JPEG 2000
+jpc,media:image,JPEG2000 encoded code stream
+jpf,media:image,JPEG 2000 extension
+jpm,media:image,JPEG 2000 part 6
+jpx,media:image,JPEG 2000 extension
+jxl,media:image,JPEG XL File Format
+jxr,media:image,JPEG XR (Extended Range) File Format
+mng,media:image,Multiple-Image Network Graphics
+mpo,media:image,Stereoscopic 3D image
+nef,media:image,Nikon RAW image file format
+odg,media:image,Apache OpenOffice Draw vector image format
+otg,media:image,OpenDocument with OASIS spec
+pct,media:image,Macintosh Picture Image file format for Apple QuickDraw
+pcx,media:image,Picture Exchange File
+ppp,media:image,NCH PhotoPad Editor Software
+psb,media:image,Adobe Photoshop file format
+psd,media:image,Photoshop Document
+psp,media:image,PaintShop Pro bitmap file format
+skp,media:image,SketchUp 3d Image format
+tga,media:image,Truevision Inc graphic format
+thm,media:image,Thumbnail image
+wmf,media:image,Microsoft Windows Metafile
+wmz,media:image,Compressed WMF
+xpm,media:image,X Windows System Image
+xpr,media:image,Microsoft Expression Graphics vector image
 
 scpt,text:source code,Compile AppleScript,
 aspx,text:source code,ASP.NET Source
@@ -195,6 +250,19 @@ lzma,archive,File Compressed with Lempel-Ziv-Markov Chain Algorithm
 jpeg,media:image,Image compressed via technology made by Joint Photographic Experts Group
 tiff,media:image,Tag Image File Format
 webp,media:image,Image format intended for the Web
+agif,media:image,GIF from Active GIF Creator
+apng,media:image,Animated Portable Network Graphics
+avif,media:image,AV1 Image File Format
+clip,media:image,Clip Studio Paint Image
+exif,media:image,Exchangeable Image File Format
+flif,media:image,Free Lossless Image Format
+fodg,media:image,Apache OpenOffice Drawing File Format
+heic,media:image,High-Efficiency Container Image format
+heif,media:image,High-Efficiency Container Image format
+icns,media:image,macOS Image format
+jfif,media:image,JPEG File Interchange Format
+pict,media:image,Apple Macintosh Picture file format
+svgz,media:image,GZIP compressed SVG
 
 applescript,text:source code,AppleScript Source
 coffee,text:source code,CoffeeScript Source
@@ -234,3 +302,7 @@ xhtml,text:source code,XHTML Document
 vcard,text:data,Electronic Business Card
 ds_store,binary,macOS File System Information
 mkdown,text:template,Markdown Document
+afphoto,media:image,Image created by Serif Affinity Photo
+dicom,media:image,Digital Imaging and Communications in Medicine Image format
+djvu,media:image,Image File format for scanned books with text and images
+pspimage,media:image,Corel PaintShop Pro graphics
