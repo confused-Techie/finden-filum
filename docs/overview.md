@@ -34,15 +34,13 @@ The CSV is broken up by a newline in a few different places. This is mostly to a
 
 ## Recognized Categories
 
-The categories being exact is what ensures that this package can be easily used.
+Categories allow increased specificty as needed. Where by default accessing the `.category` of the returned data would give a basic category. Allowing checking for file types in broad strokes. This first category returned is reffered internally as a '1st Tier Classification'. But digging deeper into the multiple classifications applied to each extension you can begin checking the '2nd Tier Classifications' and '3rd Tier Classifications'.
 
-The full list of categories must strive to be as small as possible to allow for dependents of this package to easily check for all possibilities.
+First tier classifications will be the most generic, only reserving a small handful of types that should be checked. Within each these classifications will become increasingly specific.
 
-Such as the proposed feature highlighted below, different dependents will want different levels of specificity, rather than build out a platform of varying specificity, we can instead provide that varying specificity based on our increasingly specific classification. For example the following file format: `.mkv` in a very broad sense would get `av` for it's classification, of visual media. But if the dependent really cared only about AV material this is in no way specific enough. So we could instead define the classification as `av:video` which for generic dependents, `av` might be enough, but for those interested, they can check the additional classifications. This could either be returned as an array of items, or it may be time to look at instead of returning a generic object, we setup a custom object to return that can have methods baked in.
+To write these classifications within the CSV it should be formated as such `1stTier:2ndTier:3rdTier`, excluding classifications as needed, as long as the first tier is present.
 
-But with this idea, this means the most generic, or lets say '1st Tier' classification is listed first, then increasingly specific classifications start after `:` and move onto '2nd Tier' classifications. It's unlikely that everything needs additional classifications, but if they do, it should be listed in descending order.
-
-The above list isn't great, so lets reclassify this:
+The below defines the valid classifications within each tier:
 
 #### 1st Tier Classifications
 
