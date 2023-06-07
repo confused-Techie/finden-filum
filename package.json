@@ -5,7 +5,8 @@
   "main": "./src/main.js",
   "scripts": {
     "test": "node --test test/",
-    "benchmark": "node ./benchmarks/benchmark.js"
+    "benchmark": "node ./benchmarks/benchmark.js",
+    "update": "node ./scripts/inject_new_content.js"
   },
   "bin": {
     "ff": "./bin/cli.js"

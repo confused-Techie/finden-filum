@@ -47,6 +47,24 @@ mp,media:image,MetaPost programming language generated images
 bu,media:video,Samsung CCTV security video recording
 ts,media:video,MPEG-TV recorded video format
 pz,media:video,Panzoid video project
+rf,media:video,RealFlash clip
+vf,media:video,Vegas Movie Studio project
+tp,media:video,MPEG-2 TV recorded video
+p2,media:video,Panasonic P2 video
+rm,media:video,RealMedia multimedia
+rv,media:video,RealVideo video
+qt,media:video,Apple QuickTime movie clip
+mv,media:video,IRIX command compressed movie
+hq,media:video,Apple ProRes 422 HQ video
+44,media:video,Clipstream 32 Kb stream
+dv,media:video,Digital video file
+ty,media:video,TiVo video stream
+ps,media:video,MPEG program stream format
+l3,media:video,L3 DRM protected video
+vg,media:video,VGuard H.264 video
+wm,media:video,Windows Media audio or video data
+px,media:video,Photodex Producer streaming video
+tv,media:video,Samsung digital TV receiver video
 
 adb,text:source code,ADA Source
 ads,text:source code,ADA Source
@@ -86,6 +104,327 @@ jsp,text:source code,Java Server Page
 lsp,text:source code,Lisp Source
 mud,text:source code,Lisp Source
 log,text,Log File
+pds,media:video,Cyberlink PowerDirector project
+hkv,media:video,Eyesight IP Camera video
+mkv,media:video,Matroska multimedia container video file
+es3,media:video,Canon VIXIA HG21 high resolution exported movie
+nfv,media:video,Netflix downloaded video
+lrv,media:video,GoPro low resolution video
+dvr,media:video,Microsoft Windows XP Media Center TV recording
+bnk,media:video,BINK compressed video file
+bup,media:video,Backup of DVD info
+mks,media:video,Matroska subtitles stream
+wfp,media:video,Filmora project
+dv4,media:video,Bosch Security Systems CCTV video
+tvs,media:video,TeamViewer session data
+kux,media:video,Multimedia data file
+veg,media:video,MAGIX Vegas Pro video project
+vob,media:video,DVD video object
+ifv,media:video,Fuho 16CH Standalone DVR video backup
+vpd,media:video,PhotoDVD project
+mov,media:video,Apple QuickTime digital video
+dv5,media:video,DV5 DVR digital video
+arf,media:video,WebEx advanced record file
+flv,media:video,Flash video
+m4f,media:video,MPEG-4 video data file
+m4s,media:video,MP4Box HTML5 MP4 video segment file
+dvt,media:video,DepoView digital video transcript
+vep,media:video,AVS Video Editor project
+vcr,media:video,ATI Personal Video Recorder captured video
+vcd,media:video,Video CD MPEG movie
+ezp,media:video,EDIUS project
+bik,media:video,BINK video
+bvr,media:video,Blue Iris video
+trp,media:video,MPEG-2 HD video data
+dxr,media:video,Adobe Director protected movie
+usm,media:video,ScaleForm GFX video content
+dcf,media:video,DRM content format delivery data
+um4,media:video,Samsung Smart TV video
+vp6,media:video,VP6 encoded video
+265,media:video,H.265 High Efficiency Video Coding codec encoded video
+wmv,media:video,Windows Media Video
+dir,media:video,Adobe (Macromedia) Director project
+3gp,media:video,Multimedia files for wireless networks
+dat,media:video,Video CD MPEG movie MPEG1
+sol,media:video,Adobe Flash shared object
+dxa,media:video,DXA video format
+vvf,media:video,CCTV DVR camera video format
+irf,media:video,iVIEW DVR H.264 video data
+dc8,media:video,Video data
+mts,media:video,AVCHD MPEG-2 transport stream
+mpg,media:video,MPEG 1 video file format
+viv,media:video,VivoActive video
+amc,media:video,Microsoft Windows AMC media data
+vid,media:video,Generic video
+vse,media:video,Video Server E captured video
+rdt,media:video,Adobe Captivate RoboDemo template
+m4v,media:video,MPEG-4 video file format
+mod,media:video,Hard disk camera movie MPEG-2 program stream
+eti,media:video,ETI (Ensemble Transport Interface) stream
+cpk,media:video,Sega FILM/CPK file format
+mxf,media:video,Material Exchange Format video
+asf,media:video,Advanced Systems (streaming) format
+vgz,media:video,VGuard proprietary H.264 CODEC video
+m2p,media:video,MPEG-2 stream file format
+stx,media:video,Pinnacle Studio project
+nvc,media:video,Nero Video project
+m2t,media:video,MPEG-2 transport stream
+dmx,media:video,Source Filmmaker video session
+tts,media:video,MPEG-2 video
+dce,media:video,DriveCam video recording
+hmt,media:video,HighMAT data
+stu,media:video,Pinnacle Studio video project
+asx,media:video,Microsoft Advanced Streaming Redirector
+evo,media:video,HD DVD video
+ogv,media:video,Ogg Vorbis video
+xba,media:video,Timespace Technology video
+sdv,media:video,Pinnacle Studio DV video editing project
+vp3,media:video,VP3 encoded video
+avh,media:video,OXE CCTV video recording
+vfo,media:video,VOB 5 DVD video
+cct,media:video,Macromedia (Adobe) Director Shockwave cast data
+amv,media:video,AMV video file format
+tsp,media:video,DISH Network DVR recorded video
+avf,media:video,Video information file
+vs4,media:video,AVTECH video data
+ivf,media:video,Indeo video recording
+vro,media:video,Video recordable format
+mjp,media:video,LG MJPEG video format
+3g2,media:video,3GPP2 multimedia data
+nmm,media:video,Microsoft 3D Movie Maker recorded video
+ub1,media:video,X-Driven DRS-1100 recorded video file
+str,media:video,SONY PlayStation movie stream file
+tod,media:video,Hard disk camera movie MPEG-2 transport stream
+hav,media:video,Video Recorder video data
+h64,media:video,Audioless H.264 video data
+swi,media:video,SWiSH data
+flm,media:video,AutoCAD film roll data
+rpl,media:video,ARMovie video
+vp9,media:video,VP9 video
+dcr,media:video,Digital Court Recorder video
+h3r,media:video,Panasonic camera security recording
+dvm,media:video,DVM Movie File Format
+epm,media:video,Destiny MPE Encoder encrypted portable media
+r3d,media:video,REDCODE multimedia data
+mtv,media:video,MTV video format
+mps,media:video,MPEG-1 audio and video file system stream
+apz,media:video,AMS shared project
+ifv,media:video,Indeo Video Format
+g64,media:video,Security camera video
+mj2,media:video,JPEG 2000 motion sequence format (ISO 15444-3)
+rdg,media:video,Morae recorded video file
+scc,media:video,ScreenFlow screen recording
+mjp,media:video,VTech MJP Video file
+rt4,media:video,Panasonic WJ-RT416 video recording
+urc,media:video,Unicenter Remote Control data
+g2m,media:video,GoToMeeting video
+eye,media:video,Eyemail ETI Camcorder Pro video data
+mmv,media:video,MicroMV movie
+mxv,media:video,MAGIX Movie Edit Pro video
+y4m,media:video,YUV4MPEG2 video
+mvc,media:video,Multiview Video Coding video
+tmi,media:video,Thin Client Media-3 encoded video
+hup,media:video,Haihaisoft DRM-X protected video
+mpv,media:video,MPEG 1 video
+m65,media:video,REI Camera System video format
+f4v,media:video,Adobe Flash mp4 multimedia
+jmf,media:video,Java Media Framework data
+w3d,media:video,Adobe Shockwave 3D scene export
+pmf,media:video,Sony PlayStation PSP movie
+ts4,media:video,MPEG-2 video
+ppj,media:video,Adobe Premiere 6 and older video project
+swc,media:video,Adobe Flash component distribution data
+fsv,media:video,FreeSWITCH video data
+jyk,media:video,Warez movie
+fm2,media:video,FCEUX movie
+aut,media:video,iPIX interactive pictures format
+lsf,media:video,Advanced Streaming Format
+slc,media:video,AT&T U-verse recorded video
+vpg,media:video,VideoPad video
+tms,media:video,Arcsoft Showbiz captured video
+mv2,media:video,MPC-HC mpeg video
+seq,media:video,Norpix StreamPix video sequence
+fcp,media:video,Final Cut Pro project
+gts,media:video,CaptiveWorks PVR video recording format
+gmm,media:video,Global Mobile Media media data
+pvr,media:video,Wintal PVR video
+w32,media:video,WinCAPs subtitles
+swz,media:video,Adobe Flash Player signed RSL data
+avd,media:video,MAGIX Movie Edit Pro video data
+eva,media:video,MSX video
+3mm,media:video,Microsoft 3D Movie Maker video
+mvy,media:video,MAGIX Video easy project
+dlx,media:video,Sony VDU file format importer
+tgv,media:video,Electronic Arts video data
+pxm,media:video,PCSX Rerecording captured movie
+fli,media:video,Autodesk Animator FLIC animation (old format)
+ivm,media:video,Interactive Visual Media video format
+ilm,media:video,Opus Creator multimedia data
+dtv,media:video,DVD2AVI mpeg2 data
+m1v,media:video,Moving Pictures Experts Group video (MPEG-1 IPB)
+rax,media:video,RealMedia streaming data
+bsf,media:video,AVC Blu-ray video format
+flc,media:video,AutoDesk FLIC format
+mvd,media:video,Movie Edit Pro video file
+ogm,media:video,Ogg Vorbis media
+wtv,media:video,Windows Media Center TV recording
+60d,media:video,CCTV video clip
+lsx,media:video,Advanced Streaming Redirector
+m2v,media:video,MPEG-2 packetized elementary stream
+iva,media:video,Surveillance video file
+ssm,media:video,RealAudio standard streaming metafile
+htd,media:video,HyperTRANSCRIBE project
+rca,media:video,RCA digital recorder format
+san,media:video,LucasArts Smush Animation Format
+263,media:video,H.263 encoded video
+s2e,media:video,SWF to EXE Converter project
+mcv,media:video,Mac Video file
+vcl,media:video,Roxio Video CD layout
+iis,media:video,PHOTOfunSTUDIO HD video data
+epj,media:video,EDIUS Pro project
+rvl,media:video,muvee project
+rtv,media:video,NewTek uncompressed video data
+mqv,media:video,Sony Movie Player file format
+hmv,media:video,Houdini movie file
+mep,media:video,Movavi Video Editor project
+xmv,media:video,Microsoft Xbox video data
+kmv,media:video,Mobile DJ video data
+smv,media:video,VideoLink saved mail video
+vp8,media:video,VP8 video codec video
+603,media:video,GANZ video compression data
+xpv,media:video,Integral video data
+k3g,media:video,GOM Player multimedia data
+xvw,media:video,XVW export file
+m2s,media:video,MPEG-2 video stream
+nde,media:video,Surveillance video file format
+cvc,media:video,cVideo data
+gir,media:video,Gens Plus! movie file
+vg2,media:video,Media Player Classic video data
+gvi,media:video,Google video
+dvx,media:video,DivX movie
+cx3,media:video,CMS video data
+mv4,media:video,Apple QuickTime video
+dcr,media:video,Liberty video recording
+890,media:video,Cavena subtitles data
+sbs,media:video,3D side by side movie
+hgd,media:video,IP camera video
+hls,media:video,HTTP live streaming video
+vod,media:video,WorldGroup Manager Video On Demand movie
+ipr,media:video,Apple LiveType animation
+stj,media:video,STLabs video data
+vdr,media:video,VirtualDub Frame Server file format
+dgw,media:video,Digi-Watcher video data
+hlv,media:video,Multimedia data
+mbv,media:video,JVC Everio MediaBrowser movie
+st4,media:video,Pinnacle Studio 400 project
+hnm,media:video,Cryo HNM movie soundtrack
+tvv,media:video,TV NOW Portable Video Recorder video format
+pyv,media:video,Microsoft PlayReady video
+jpv,media:video,IVC video format
+vid,media:video,SymbOS VID video
+dof,media:video,DOSBox capture movie file
+mvv,media:video,AVS Media Player MPEG video file
+aec,media:video,Cinema 4D Adobe After Effects import composition
+bay,media:video,Kodak/Roper Bayer picture sequence
+mgv,media:video,Sony PSP video data
+pmp,media:video,PMP video file
+s11,media:video,Sealed MPEG-1 video
+scm,media:video,Lotus ScreenCam movie
+dsm,media:video,Media Player Classic DSM streaming container
+vcm,media:video,Interwise participant recorded WebCast data
+nxv,media:video,NXV video data
+vs2,media:video,Corel VideoStudio 2 data
+dpg,media:video,nDs-mPeG video data
+gxf,media:video,General Exchange Format video data
+fvt,media:video,Fast Search & Transfer video format
+aqt,media:video,AQTitle subtitles
+flh,media:video,Flash Video High Definition file
+ivs,media:video,Internet streaming video
+261,media:video,H.261 encoded video
+800,media:video,Security cam footage file
+tp0,media:video,Mascom PVR video
+el8,media:video,eLecta Live recording
+jmm,media:video,JVC recorded multimedia data
+dwz,media:video,Ulead DVD MovieFactory project file
+scn,media:video,Pinnacle Studio scene
+tvs,media:video,VectorMAX streaming video
+qtc,media:video,Apple QuickTime support data
+bbv,media:video,PPLive data
+moo,media:video,Apple QuickTime movie clip file
+c2r,media:video,Microsoft Windows Media Center click-to-record data
+mio,media:video,MIO multimedia data
+sqz,media:video,Squeeze project
+ev2,media:video,Emblaze Video Format
+m1s,media:video,MPEG-1 system stream
+mmp,media:video,Multimedia player movie clip
+axm,media:video,Axmedis object
+mcf,media:video,MCF Media Container file
+h4v,media:video,H.264 / MPEG-4 AVC
+xas,media:video,Sony Playstation video file
+svi,media:video,Samsung video data
+nvl,media:video,Netviewer Meet session record
+qtm,media:video,Apple QuickTime movie
+zeg,media:video,ZeroG subtitles file
+noa,media:video,Japanese movie format
+l32,media:video,Swift line 21 caption data
+bub,media:video,Photobubble data
+npv,media:video,Pixbend Player pixbend media file
+uvs,media:video,UVScreenCamera segments
+$ts,media:video,DTC 2030 recorded movie
+mpe,media:video,MPEG movie (Motion Pictures Experts Group)
+vc1,media:video,VC-1 video data
+htp,media:video,Honest Technology Video Editor project
+pxv,media:video,Pixbend media
+flm,media:video,Adobe Premiere filmstrip
+am2,media:video,AutoPlay Menu Studio ver.2 data
+roq,media:video,RoQ video format
+am7,media:video,AutoPlay Menu Studio ver.7 data
+osp,media:video,OpenShot project
+wm3,media:video,VisualNastran movie file
+lza,media:video,LZA video data
+rki,media:video,Race-Keeper video
+ssw,media:video,Sealed Flash data
+mp7,media:video,Portable Media player 7 data
+4xm,media:video,4XM video format
+stk,media:video,HyperStudio stacks file
+xmm,media:video,GEX MP3 satellite receiver saved data
+bix,media:video,Kodicom video recording
+ogx,media:video,Ogg Vorbis multiplex profile
+rvx,media:video,RealNetworks protected video
+mvf,media:video,Production Studio video
+yts,media:video,YTS YIFY video
+par,media:video,Dedicated Micros DVR recording
+rpl,media:video,Escape Replay compressed video
+clk,media:video,ClickView video
+mmm,media:video,MultiMedia Movie format (RIFF RMMP)
+gfp,media:video,GreenForce-Player audio or video data
+biz,media:video,ShowBiz project
+mvr,media:video,IBM HotMedia multimedia data
+mhg,media:video,Multimedia data
+drc,media:video,Dirac video format
+cak,media:video,FILM/CPK file format
+fbr,media:video,HP Mercury Screen Recorder recorded video
+d2v,media:video,DGIndex project
+crv,media:video,IPcam video format
+cam,media:video,Camtasia Studio project
+mnv,media:video,Sony PlayStation 3 movie
+buy,media:video,Movie
+jts,media:video,JVC Cyberlink AVCHD video data
+trn,media:video,NSME Trains screensaver
+ppp,media:video,CyberLink PowerProducer project file
+vmm,media:video,Microsoft 3D Movie Maker video data
+m21,media:video,MPEG-21 video data
+siv,media:video,Silicon Imaging video file
+qmx,media:video,Quantum Streaming video
+vgx,media:video,VGuard H.264 video data
+vp7,media:video,TrueMotion VP7 video
+bs4,media:video,Mikogo session video recording data
+mv1,media:video,Video file
+qvt,media:video,Quantum Streaming video stream url data
+vcv,media:video,ViewCave video data
+mpj,media:video,Video Edit Magic project
+ivr,media:video,RealPlayer Internet video recording data
+avr,media:video,MPEG-2 transport stream
 lua,text:source code,Lua Source
 mips,text:source code,MIPS Assembler Source
 asm,text:source code,MIPS Assembler Source
@@ -284,6 +623,89 @@ trec,media:video,Camtasia Studio recorded session file
 mpex,media:video,Movavi Video Editor Project
 v264,media:video,TENVIS IP Camera recorded video
 g64x,media:video,Security Center video data
+webm,media:video,Matroska WebM video
+hvc1,media:video,H.265 RAW video
+h265,media:video,H.265 High Efficiency Video
+yify,media:video,Warez movie
+dash,media:video,Dynamic Adaptive Streaming over HTTP video
+encm,media:video,Panasonic encrypted video
+wlmp,media:video,Microsoft Windows Live Movie Maker video project
+h260,media:video,Video recording
+lrec,media:video,Inter-Tel web conference recording
+etrg,media:video,Warez movie
+hbox,media:video,Surveillance camera recorded video data
+gifv,media:video,Graphics Interchange Format video data
+strg,media:video,E-Viewer recorded video copy backup
+dfxp,media:video,Timed Text Markup Language distribution format exchange profile
+hevc,media:video,HEVC video data
+xvid,media:video,XviD Codec
+mk3d,media:video,Matroska MKV 3D stereoscopic video
+mp41,media:video,Microsoft MP41 video data
+vghd,media:video,VirtuaGirlHD model videoclip
+cine,media:video,Vision Research Phantom Cine camera recording
+demo,media:video,VirtuaGirl HD model demo
+sdr2,media:video,H.264 MICRO DVR camera movie
+moff,media:video,Sony AVCHD index
+ssif,media:video,Blu-ray stereoscopic interleaved movie
+ravi,media:video,Optris recorded video
+eztv,media:video,EZTV tv show video
+mts1,media:video,MPEG-2 transport stream
+ismv,media:video,Smooth Streaming MPEG-4 multimedia fragment
+mpeg,media:video,MPEG movie
+mjpg,media:video,Motion JPEG Video
+rmvb,media:video,RealMedia variable bitrate
+vmlf,media:video,AVI movie
+flux,media:video,FluxTime Studio clip
+m2ts,media:video,MPEG-2 stream (Blu-Ray)
+dscf,media:video,Fujifilm video
+dmsd,media:video,Roxio Creator MyDVD DVD project
+mpg4,media:video,MPEG-4 video file format
+crec,media:video,Microsoft Lync 2010 record
+3gpp,media:video,3GPP Third generation partnership project movie
+dmsm,media:video,Roxio Creator VideoWave movie project
+wsve,media:video,Wondershare Filmora project
+prel,media:video,Adobe Premiere Elements project
+mpgx,media:video,MPEG video
+mpgv,media:video,MPEG-2 video data
+ml20,media:video,MSN Webcam Recorder video file
+bdmv,media:video,Blu-ray information
+cpvc,media:video,Adobe Captivate video composition
+bdav,media:video,Mistaken M2TS video
+pgmx,media:video,Pegasys video
+mjp2,media:video,JPEG 2000 motion sequence format (ISO 15444-3)
+divx,media:video,DivX Media Format
+mpg2,media:video,MPEG-2 video
+dmss,media:video,Roxio Creator VideoWave slideshow project
+h263,media:video,H.263 video format
+svcd,media:video,SVCD video
+s4ud,media:video,Samsung Smart TV video
+vep4,media:video,AVS Video Editor project
+bdtp,media:video,BaiduPlayer media data
+film,media:video,Filmkey Player media data
+ml20,media:video,Mercury Messenger for Mac video data
+wmv3,media:video,Video data
+ncor,media:video,Adobe Encore project
+rtsp,media:video,Apple QuickTime real-time streaming protocol
+sbst,media:video,Adobe Soundbooth score template
+tivo,media:video,TiVo video data
+vivo,media:video,RealNetworks VivoActive movies and audio
+moov,media:video,Apple QuickTime movie file
+wfsp,media:video,Wondershare Fantashow project
+3gp2,media:video,3GPP2 multimedia data
+fli_,media:video,Autodesk Animator FLIC animation old format
+kava,media:video,Autopano Video Pro video
+mp4v,media:video,MPEG-4 video data
+rmhd,media:video,RealMedia High Definition video
+ftvx,media:video,FLV Editor project
+mp2v,media:video,MPEG video
+xlmv,media:video,Thunder Mall video data
+vcpf,media:video,Easy Video Copy & Convert project
+dvsd,media:video,DVMaster Pro video file
+tdt2,media:video,Panasonic HD video camera movie file
+qcif,media:video,QCIF RAW video format
+h261,media:video,H.261 video format
+vprj,media:video,VideoReDo project file
+3ivx,media:video,3ivx video data
 
 applescript,text:source code,AppleScript Source
 coffee,text:source code,CoffeeScript Source
@@ -331,3 +753,56 @@ anydesk,media:video,AnyDesk session record
 tscproj,media:video,Camtasia Studio project
 vproj,media:video,VSDC Free Video Editor project
 prproj,media:video,Adobe Premiere Pro project
+dtcp-ip,media:video,Microsoft Windows Movie Maker video
+camrec,media:video,Camtasia Studio video recording (version 8.3 or earlier)
+camproj,media:video,Camtasia Studio project
+mjpeg,media:video,Motion JPEG video
+fcpxml,media:video,Final Cut Pro X project
+doink-gs,media:video,Green Screen project
+awlive,media:video,Active WebCam live capture video
+3gp_128x96,media:video,3GP video data
+mpeg2,media:video,Multiplexed MPEG-1/2 stream
+rec_part0,media:video,Walker File format video
+otrkey,media:video,OTRKEY encoded video
+screenrec,media:video,ScreenRec recording
+movie,media:video,Apple QuickTime movie
+djanimations,media:video,Digital Juice animation data
+rcproject,media:video,iMovie project
+rargb,media:video,Warez movie
+dvr-ms,media:video,Microsoft Digital Video Recording
+mp4;v=1,media:video,MPEG-4 video file format
+mpeg4,media:video,MPEG-4 video
+mpegps,media:video,MPEG program stream format
+video,media:video,aTube Catcher video data
+rec_part1,media:video,Walker File format video data
+ratDVD,media:video,ratDVD commpressed DVD movie
+mpcpl,media:video,Media Player Classic's playlist
+m-jpeg,media:video,M-JPEG data
+flexolibrary,media:video,Final Cut Pro or Apple iMovie library
+mkv3D,media:video,Matroska 3D video format
+lsproj,media:video,LoiLoScope project
+theater,media:video,iMovie theater library
+imovietrailer,media:video,Apple iMovie video data
+splash,media:video,Splash Pro EX video
+flvat,media:video,Downloaded Flash video
+imovieproj,media:video,iMovie project
+demo4,media:video,Unreal Tournament 2004 demo
+xtodvd,media:video,ConvertXtoDVD project
+rcrec,media:video,LogMeIn PRO remote control session recording
+dvddata,media:video,TMPGEnc DVD Author video data
+mpeg1,media:video,Multiplexed MPEG-1/2 video
+3gpp2,media:video,Multimedia files for wireless networks
+dvdrip,media:video,DVD disk image
+rec_part2,media:video,Walker File Format
+hdmov,media:video,Apple QuickTime HD Movie
+viewlet,media:video,Qarbon Viewlet
+tridefmovie,media:video,TriDef movie
+nvavi,media:video,Split AVI Audio video interchange format
+rec_part3,media:video,Walker File Format
+olproj,media:video,Adobe OnLocation project
+pproj,media:video,Adobe Premiere Pro project
+arcut,media:video,Adobe Prelude rough cut data
+dvdmedia,media:video,RipIt DVD backup
+asdvdcrtproj,media:video,Aimersoft DVD Creator project
+grasp,media:video,Graphical System for Presentation animation data
+dv-avi,media:video,Microsoft DV-AVI video data
