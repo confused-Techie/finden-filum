@@ -44,6 +44,9 @@ xz,archive,Compressed File
 ai,media:image,Adobe Illustrator Artwork image file
 ct,media:image,Continuous Tone File
 mp,media:image,MetaPost programming language generated images
+bu,media:video,Samsung CCTV security video recording
+ts,media:video,MPEG-TV recorded video format
+pz,media:video,Panzoid video project
 
 adb,text:source code,ADA Source
 ads,text:source code,ADA Source
@@ -208,6 +211,19 @@ wmf,media:image,Microsoft Windows Metafile
 wmz,media:image,Compressed WMF
 xpm,media:image,X Windows System Image
 xpr,media:image,Microsoft Expression Graphics vector image
+mp4,media:video,MPEG-4 Video File Format
+dav,media:video,DVR365 encrypted video recording
+264,media:video,H.264/MPEG-4 AVC video
+exo,media:video,Youtube for Android video chunk
+swf,media:video,ShockWave Flash Animated vector format for the Internet
+fbr,media:video,BB FlashBack recorded video
+n3r,media:video,Panasonic video format
+scr,media:video,DivX video
+rec,media:video,Recorded data
+avi,media:video,Audio Video Interleave movie
+wve,media:video,Wondershare Video Editor Project
+avc,media:video,MPEG-4 AVC Advanced Video Coding
+vpj,media:video,VideoPad video editor project
 
 scpt,text:source code,Compile AppleScript,
 aspx,text:source code,ASP.NET Source
@@ -263,6 +279,11 @@ icns,media:image,macOS Image format
 jfif,media:image,JPEG File Interchange Format
 pict,media:image,Apple Macintosh Picture file format
 svgz,media:image,GZIP compressed SVG
+h264,media:video,H.264 video
+trec,media:video,Camtasia Studio recorded session file
+mpex,media:video,Movavi Video Editor Project
+v264,media:video,TENVIS IP Camera recorded video
+g64x,media:video,Security Center video data
 
 applescript,text:source code,AppleScript Source
 coffee,text:source code,CoffeeScript Source
@@ -306,3 +327,7 @@ afphoto,media:image,Image created by Serif Affinity Photo
 dicom,media:image,Digital Imaging and Communications in Medicine Image format
 djvu,media:image,Image File format for scanned books with text and images
 pspimage,media:image,Corel PaintShop Pro graphics
+anydesk,media:video,AnyDesk session record
+tscproj,media:video,Camtasia Studio project
+vproj,media:video,VSDC Free Video Editor project
+prproj,media:video,Adobe Premiere Pro project
