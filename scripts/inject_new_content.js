@@ -53,7 +53,7 @@ const addMoreDigit = (text) => {
 };
 
 const createText = (ext, desc, cat) => {
-  return `${ext},${cat},${desc}`;
+  return `${ext},${cat},${desc.replace(",","").replace(":","")}`;
 };
 
 // Now to loop through user data

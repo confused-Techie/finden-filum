@@ -10,6 +10,9 @@ i,text:source code,SWIG Source
 a,binary,C/C++ Static Archive Library
 o,binary,Visual Studio Compiled Source
 z,archive,Unix compressed file format
+2,media:audio,Saltlake city game music data
+7,media:audio,Salt Lake Winter Olympics 2002 music data
+s,media:audio,AKAI S1000/S1100/S01 sample or AKAI S900/950 sample
 
 as,text:source code,ActionScript Source
 cc,text:source code,C++ Source
@@ -65,6 +68,35 @@ vg,media:video,VGuard H.264 video
 wm,media:video,Windows Media audio or video data
 px,media:video,Photodex Producer streaming video
 tv,media:video,Samsung digital TV receiver video
+wv,media:audio,WavPack lossless compressed audio
+aa,media:audio,Audible audio
+au,media:audio,Unix audio sound file format
+10,media:audio,Salt Lake Winter Olympics 2002 music data
+16,media:audio,Salt Lake Winter Olympics 2002 music data
+sf,media:audio,IRCAM / MTU SoundFile format
+sd,media:audio,Entropic sound data format
+sw,media:audio,16-bit audio sound raw signed PCM data
+pc,media:audio,Personal Composer musical notation
+ra,media:audio,RealAudio audio
+gm,media:audio,Transport Tycoon game music
+tl,media:audio,OpenTL Open track list file
+mz,media:audio,Mozart compressed data
+ym,media:audio,AY-3-8910 audio data
+la,media:audio,La lossless compressed audio data
+ly,media:audio,LilyPond music score
+xa,media:audio,Sony PlayStation multimedia file
+my,media:audio,Audio data
+xi,media:audio,Fastracker 2.0 instrument
+xm,media:audio,FastTracker 2 instrument module
+hh,media:audio,HammerHead drumloop
+da,media:audio,Sony PlayStation CD-DA format
+xt,media:audio,FastTracker music track file
+sn,media:audio,Sound Club editor compressed song
+ea,media:audio,EarAche audio
+es,media:audio,ECHOSPEECH data
+ay,media:audio,Audio Overload project
+vm,media:audio,Samsung cell phone voice memo
+v8,media:audio,Covox 8-bit audio file
 
 adb,text:source code,ADA Source
 ads,text:source code,ADA Source
@@ -425,6 +457,381 @@ vcv,media:video,ViewCave video data
 mpj,media:video,Video Edit Magic project
 ivr,media:video,RealPlayer Internet video recording data
 avr,media:video,MPEG-2 transport stream
+mp3,media:audio,Compressed audio and music file, mp3 songs or ringtones
+wfp,media:audio,Turtle Beach WaveFront audio data
+cda,media:audio,CD Audio track
+rec,media:audio,Recorded data
+3ga,media:audio,Audio file for wireless networks
+wem,media:audio,Wwise Encoded Media audio
+wpl,media:audio,Microsoft Windows Media Player playlist
+mus,media:audio,Finale music file format
+sib,media:audio,Sibelius music notation
+nmf,media:audio,NICE Media Player audio
+zab,media:audio,Zipped audio book
+wav,media:audio,WAVe PCM Sound, standard Windows sound format
+sf2,media:audio,Creative Labs SoundFont 2.0 sound bank
+fsb,media:audio,FMOD audio
+2ch,media:audio,Super Audio CD track
+pcm,media:audio,PCM audio data file
+amr,media:audio,Adaptive Multi-Rate compressed audio
+trm,media:audio,Court record audio format
+gp5,media:audio,Guitar Pro 5 project
+arf,media:audio,WebEx advanced record file
+sng,media:audio,Audio or song
+ds2,media:audio,Olympus Digital Speech Standard recorded audio
+avr,media:audio,Audio Visual Research sound file
+slx,media:audio,SpectraLayers Pro audio project
+aax,media:audio,Audible enhanced audio data
+m4a,media:audio,MPEG-4 compressed audio
+nvf,media:audio,Creative Labs Nomad recorded voice
+xkr,media:audio,Sing Magic karaoke song
+dcf,media:audio,DRM content format delivery data
+ogg,media:audio,Ogg Vorbis audio
+plp,media:audio,Sandisk Sansa playlist
+ses,media:audio,Adobe Audition session data
+dss,media:audio,Olympus Digital Speech Standard
+ap4,media:audio,Kids&Us Talking Pen audio
+aac,media:audio,Advanced audio coding stream file
+sdx,media:audio,Audio sample
+mid,media:audio,MIDI audio
+nwc,media:audio,Noteworthy Composer song
+mxl,media:audio,Compressed MusicXML music notation file
+bnk,media:audio,Adlib instrument audio bank
+nki,media:audio,Native Instruments instruments sample
+aup,media:audio,Audacity project
+dvf,media:audio,Sony DV voice data
+vox,media:audio,ADPCM Dialogic sound data
+fls,media:audio,Adobe Flash Lite sound bundle
+fnf,media:audio,Forte notation file
+vce,media:audio,Yamaha normal voice file
+thd,media:audio,Dolby TrueHD audio data
+sty,media:audio,Yamaha general style data
+rpp,media:audio,REAPER project
+wrf,media:audio,WebEx recorded video
+alb,media:audio,Steinberg Cubase or VST backup song
+vdj,media:audio,VirtualDJ audio sample
+wma,media:audio,Windows Media Audio file
+uax,media:audio,Unreal audio package
+xsb,media:audio,XACT sound bank
+acd,media:audio,ACID Pro audio project
+ram,media:audio,Real Audio metafile
+snd,media:audio,Sound data
+wpp,media:audio,WavePad audio project
+ad4,media:audio,4D Systems audio data
+dwp,media:audio,DarkWave Studio project
+ac7,media:audio,Casio electronic keyboard rhythm data
+zvr,media:audio,Philips Voicetracer recorded voice
+moi,media:audio,JVC Everio information data
+fst,media:audio,FL Studio saved state
+kar,media:audio,MIDI Karaoke song
+seq,media:audio,Sony Playstation MIDI sequence
+raw,media:audio,RAW audio format
+flm,media:audio,FL Studio Mobile song
+asf,media:audio,Advanced Systems (streaming) format
+smp,media:audio,Audio data
+gpx,media:audio,Guitar Pro 6 format
+gp4,media:audio,Guitar Pro 4 project
+br5,media:audio,BMW iDrive multimedia data
+sbk,media:audio,Creative Labs EMU SoundFont v1 bank
+cdg,media:audio,DART Karaoke Studio lyrics
+rtm,media:audio,Real Tracker music module (MOD)
+br4,media:audio,BMW iDrive multimedia data
+spx,media:audio,Speex encoded audio
+smf,media:audio,Standard MIDI file format
+muk,media:audio,Multak Mini 8162 encoded audio karaoke
+sgw,media:audio,n-Track Studio packed song
+asx,media:audio,Microsoft Advanced Streaming Redirector
+rip,media:audio,Hit’n’Mix audio format
+xwb,media:audio,XACT wave bank data
+sds,media:audio,MIDI sample sound (DUMP standard file)
+ang,media:audio,Anghami audio
+mmm,media:audio,MAGIX Music Maker audio arrangement data
+ksf,media:audio,Korg Trinity sample file
+omf,media:audio,Open Media Framework file
+dlp,media:audio,DirectMusic Producer DLS data
+oma,media:audio,Sony OpenMG music format
+mgu,media:audio,Band-in-a-Box MIDI song
+ajp,media:audio,AJP Player video
+msv,media:audio,Sony Memory Stick compressed voice file
+kmp,media:audio,Korg Trinity audio
+sdk,media:audio,Roland S-550/S-50/W-30 disk image
+svd,media:audio,Roland Fantom audio
+nsp,media:audio,Computerized Speech Lab audio speech format
+svq,media:audio,Roland Keyboard midi sequence file
+m4r,media:audio,Apple iPhone ringtone format
+vsb,media:audio,Virtual Sampler audio bank
+mp_,media:audio,Mobile phone sound
+gig,media:audio,GigaSampler/GigaStudio audio data
+xmi,media:audio,Miles Sound System extended MIDI audio
+acm,media:audio,ACM compressed sound
+cpa,media:audio,Adobe Premiere conformed audio
+abm,media:audio,Music album
+voc,media:audio,Creative Labs sound data
+mka,media:audio,Matroska audio
+rx2,media:audio,ReCycle! audio loop file
+gtp,media:audio,Guitar Pro project
+caf,media:audio,Apple Core Audio Format
+404,media:audio,Muon DS404 bank
+m4p,media:audio,Apple iTunes Music Store audio
+rex,media:audio,ReCycle audio loop export file
+xpf,media:audio,Linux MultiMedia Studio instrument preset
+rns,media:audio,Reason audio project
+gsm,media:audio,GSM sound
+aud,media:audio,NICE Media Player audio
+fla,media:audio,Audio files encoded by Flac - free lossless audio codec
+dsf,media:audio,Delusion/XTracker digital sample
+vag,media:audio,Sony Playstation/PS2 compressed sound
+cmf,media:audio,Creative Labs FM-synthesis music file
+dls,media:audio,DownLoadable sound
+uvn,media:audio,Yamaha Tyros audio
+fsc,media:audio,FruityLoops score
+azx,media:audio,ZX Audio file format
+sfz,media:audio,SoundFont compressed audio
+mmp,media:audio,MixMeister Studio playlist
+sgu,media:audio,Band-in-a-Box midi song
+aaf,media:audio,Advanced Authoring Format
+fsm,media:audio,Farandole Composer WaveSample music format
+hma,media:audio,Sony MiniDisc audio file
+sfd,media:audio,SoundStage sound data
+h2p,media:audio,Zebra preset
+ape,media:audio,Monkey's Audio lossless audio compression format
+abk,media:audio,Need for Speed Underground audio data
+kfn,media:audio,KaraFun karaoke song
+nbs,media:audio,Minecraft Note Block Studio audio
+swa,media:audio,Adobe Shockwave music data
+cdo,media:audio,Crescendo music score
+mtd,media:audio,Musicnotes digital music sheet
+cwp,media:audio,Cakewalk Sonar audio project
+itz,media:audio,Impulse Tracker music module
+krx,media:audio,Karaoke Midi file
+wrk,media:audio,Cakewalk music project
+mx6,media:audio,Mixcraft 6 audio
+tsh,media:audio,Cenix audio
+m4b,media:audio,MPEG-4 Audio Layer audio book
+ove,media:audio,Overture music score
+vsq,media:audio,Vocaloid audio sequence
+bmu,media:audio,BioWare music unit
+nak,media:audio,Audio file
+flp,media:audio,FL studio saved track
+ec3,media:audio,Dolby Digital AC3 audio
+rcp,media:audio,Recomposer MIDI sequencer music data
+hsc,media:audio,HSC tracker 2-op FM music data
+sts,media:audio,ScreamTracker song format
+drm,media:audio,Cubase Drum map setup file
+brr,media:audio,SNES BRR (Bit Rate Reduction) audio data
+als,media:audio,Ableton Live project
+cdr,media:audio,RAW CD-format audio
+dtm,media:audio,Digitrakker audio module
+imf,media:audio,Apogee IMF audio file format
+dva,media:audio,dps Velocity split audio
+bvf,media:audio,iRock digital voice recorder audio data
+dvc,media:audio,Dragon NaturallySpeaking voice command
+dkd,media:audio,Karaoke music
+gog,media:audio,Drumagog sample data
+mpc,media:audio,MusePack audio data
+rad,media:audio,Reality AdLib Tracker 2 audio data
+bww,media:audio,Bagpipe Music Writer music notation
+alc,media:audio,Visual MP3 embedded dynamic lyrics
+myr,media:audio,Harmony Assistant music file
+vm1,media:audio,Panasonic voice
+kam,media:audio,Meragana karaoke data
+mpa,media:audio,MPEG audio
+ac3,media:audio,Dolby Digital sound
+wax,media:audio,Windows Media Audio redirector
+son,media:audio,Notator SL audio
+mes,media:audio,A2B Player file format
+tsl,media:audio,Cenix audio
+ckf,media:audio,Casio Keyboard audio
+efa,media:audio,Ensoniq ASR instrument
+sfr,media:audio,Sonic Foundry sample resource file
+rsf,media:audio,LEGO MINDSTORMS robot sound
+mld,media:audio,i-Melody format for i-Mode
+s3p,media:audio,AKAI MESA II/PC S-series program
+its,media:audio,Impulse Tracker sample
+tak,media:audio,TAK lossless compressed audio
+uvd,media:audio,Yamaha Tyros4 audio data
+mct,media:audio,Musicator MIDI file
+exs,media:audio,Apple Logic EXS24 instrument data
+dmf,media:audio,Delusion/Xtracker audio format
+uni,media:audio,UniMOD/MikMOD music module
+mfb,media:audio,Ensoniq MR 76 audio data
+shn,media:audio,Shorten compressed audio data
+ede,media:audio,Ensoniq EPS disk image
+mss,media:audio,Miles Sound System DLS 1 sound format
+bmw,media:audio,BuzzPlay music with waves
+dig,media:audio,Audio file
+ckb,media:audio,Cricket Audio sound bank file
+lso,media:audio,Apple Logic song
+mx5,media:audio,Mixcraft 5 audio project
+vif,media:audio,TomTom Navigator voices
+ams,media:audio,Velvet Studio module
+elp,media:audio,HotRecorder proprietary audio data
+vyf,media:audio,Samsung digital voice recorder file
+psf,media:audio,Sony Playstation sound format
+fzf,media:audio,Casio FZ-1 full dump
+bam,media:audio,Bob's Adlib music file format
+wsx,media:audio,SysEx Librarian data
+ibk,media:audio,Sound Blaster FM instrument bank
+psi,media:audio,Psion A-law audio file
+adg,media:audio,Ableton Live device group data
+tn7,media:audio,Casio WK-3000 tone
+svx,media:audio,Sound (Amiga 8SVX format)
+vy3,media:audio,Samsung digital voice recorder format
+w02,media:audio,Yamaha cat audio sample
+vbk,media:audio,CallPilot audio
+amz,media:audio,Amazon MP3 Downloader data
+d00,media:audio,Adlib/Edlib sound
+aob,media:audio,DVD Audio Object data
+orc,media:audio,CSound Orchestra midi audio
+dau,media:audio,Express Dictate dictate record
+dx7,media:audio,Yamaha DX-series raw audio data
+gbs,media:audio,Nintendo Game Boy music audio data
+ftc,media:audio,WavePad audio data
+w64,media:audio,Sonic Foundry Wave-64 format
+afc,media:audio,Compressed audio interchange file format
+ptb,media:audio,Power Tab guitar tablature
+vgm,media:audio,Video Game Music file
+kma,media:audio,Video Hoster karaoke data
+rmp,media:audio,RealAudio audio metadata
+dsd,media:audio,Direct Stream Digital audio
+dvw,media:audio,Dektron Digital Voice Recorder audio data
+sbg,media:audio,SBaGen binaural beat data
+mff,media:audio,Cakewalk MIDI format
+cwb,media:audio,Sonar project archive file
+iff,media:audio,Amiga Interchange File format
+rfl,media:audio,Reason sound bank
+xmz,media:audio,Fasttracker 2 extended audio module
+odd,media:audio,Coby voice recorder format
+rma,media:audio,RealMedia audio data
+vst,media:audio,VST audio plug-in
+w03,media:audio,Yamaha pig audio sample
+esu,media:audio,LokSound Electronic Sound File
+x3a,media:audio,MOTIF XF data
+plm,media:audio,DisorderTracker2 module
+mx4,media:audio,Mixcraft 4 audio
+aa3,media:audio,Sony ATRAC audio
+mgb,media:audio,Paragon5 Gameboy Tracker audio
+zax,media:audio,Zaxcom audio data
+kin,media:audio,Cakewalk Kinetic music project
+s48,media:audio,Jutel RadioMan MPEG2 audio
+abc,media:audio,Musical notation language file
+s3m,media:audio,Scream Tracker v3 module
+tks,media:audio,Traktor Pro MIDI map
+bnk,media:audio,Spotify playlist
+arl,media:audio,Aureal Aspen audio bank
+mp1,media:audio,MPEG Audio Stream, Layer I
+669,media:audio,8 channels MOD 669 module
+sc2,media:audio,Sample Cell II PC/Mac instrument
+nst,media:audio,NoiseTracker music module
+koz,media:audio,Sprint Music Store music data
+dm1,media:audio,Desktop Music Software score file
+mjf,media:audio,Mjuice MP3 audio file
+alw,media:audio,A-law G.711 European telephony format
+eop,media:audio,EveryonePiano music score
+cvs,media:audio,CVS and VMS sound (continuous variable slope)
+efe,media:audio,Ensoniq EPS instrument file
+mo3,media:audio,MO3 MOD audio format
+ptx,media:audio,Pro Tools session
+$ri,media:audio,Steinberg Cubase compressed audio data
+vmo,media:audio,Siemens SL45 mobile phone voice record
+rol,media:audio,AdLib Visual Composer music data
+mx1,media:audio,coucoucircus.org audio temporary data
+lam,media:audio,Netscape Media Player streaming audio metafile
+krz,media:audio,Kurzweil 2000 sample file
+dro,media:audio,DOSBox Raw OPL format
+rhl,media:audio,EdgeSounds RatHole compressed audio file
+isb,media:audio,Vanguard music data
+sri,media:audio,Dragon NaturallySpeaking audio data
+rsn,media:audio,Propellerhead Reason audio data
+swv,media:audio,Yamaha Sweet! voices sound data
+oga,media:audio,Ogg Vorbis audio
+drx,media:audio,DaVinci Resolve eXchange data
+mk1,media:audio,Karaoke audio data
+sbm,media:audio,Hello Network HelloCombined Media Player file format
+eda,media:audio,Ensoniq ASR disk image
+sg4,media:audio,Band-in-a-Box song file
+ad3,media:audio,ADPCM 3-bit compressed voice
+dr8,media:audio,DR-008 drumkit
+rmx,media:audio,RealMedia secure media clip
+sd2,media:audio,Sound Designer 2 audio data
+lms,media:audio,Light-O-Rama musical sequence
+nxt,media:audio,NeXTSTEP sound format
+m2s,media:audio,MPEG-2 video stream
+mf3,media:audio,Ensoniq MR-76 audio data
+zaf,media:audio,Zoom Audio data
+mv3,media:audio,Audio data
+w07,media:audio,Yamaha elephant audio sample
+rso,media:audio,LEGO NXT brick audio data
+dat,media:audio,Sony Digital Audio Tape
+pno,media:audio,Microsoft Windows 8 Piano song
+hsb,media:audio,HALion sampler data
+st3,media:audio,Star 3 MIDI karaoke data
+ahx,media:audio,WinAHX tracker module
+sa1,media:audio,Panasonic AAC data
+_02,media:audio,Soundtrack compressed data
+lvp,media:audio,Avaya Voice Player compressed voice audio
+qcp,media:audio,Qualcomm PureVoice QCELP recorder and player voice
+atp,media:audio,Sony music format
+n3a,media:audio,Panasonic security camera recorded audio
+zik,media:audio,Cryo ZIK audio data
+sag,media:audio,Sagem ringtone format
+npr,media:audio,Nuendo file
+w01,media:audio,Yamaha dog audio sample
+emb,media:audio,Everest embedded bank file
+wfd,media:audio,Turtle Beach WaveFront drum set format
+rgp,media:audio,Rosegarden project file
+iti,media:audio,Impulse Tracker instrument
+gdm,media:audio,Bells, Whistles, and Sound Boards module
+aif,media:audio,Audio Interchange Format audio
+mus,media:audio,SCORE Music publishing system music notation
+laa,media:audio,LucasArts AdLib audio file format
+cs3,media:audio,Casio WK-1800 Keyboard output file
+rhp,media:audio,Encore file format
+vy4,media:audio,Samsung voice codec file
+mus,media:audio,Doom music file
+mww,media:audio,Music Works data
+vqf,media:audio,TwinVQ audio data
+m3a,media:audio,Enhanced M3U playlist
+sg2,media:audio,Band-in-a-Box audio
+tvn,media:audio,Yamaha Tyros 2 voice
+fc4,media:audio,AMIGA Futur-Composer module
+mkf,media:audio,Karabox music
+mwk,media:audio,MusicWrite music score file
+sqt,media:audio,Technics SX-KN6000 multiple sequence data
+rmj,media:audio,RealAudio media
+w06,media:audio,Yamaha lion audio sample
+edk,media:audio,Ensoniq KT disk image
+m3v,media:audio,DJ Mix Pro playlist
+dra,media:audio,Dragon NaturallySpeaking voice
+psb,media:audio,Pinnacle sound bank
+afs,media:audio,Sega Dreamcast compressed audio
+toc,media:audio,Sony Playstation Portable sound file
+mg2,media:audio,Band-in-a-Box song file
+w7a,media:audio,Yamaha Motif ES format
+vig,media:audio,Audio data
+a3s,media:audio,Yamaha A3000 sample
+bwf,media:audio,Broadcast wave file format
+ad2,media:audio,ADPCM 2-bit compressed voice
+sxt,media:audio,Propellerheads Reason 2 NN-XT sound data
+vox,media:audio,Adobe Audition wave sound
+exb,media:audio,Creative Emulator X audio
+eol,media:audio,Digital Winds audio
+vsi,media:audio,VSampler instrument file
+cmo,media:audio,Spanish Whiz sound
+omx,media:audio,OtsAV media library information
+gi!,media:audio,GigaSampler/GigaStudio split audio
+x3v,media:audio,Yamaha Motif audio
+edv,media:audio,Ensoniq VFX-SD disk image
+w7v,media:audio,Yamaha Motif ES voices format
+aud,media:audio,DTS sound data stream file format
+evx,media:audio,EVO record data
+rta,media:audio,IBM Voice Type languages vocabulary
+mia,media:audio,MusicIndiaOnline Trident Player music
+sps,media:audio,StoneTracker audio
+oxm,media:audio,Ogg compressed xm data
+lme,media:audio,LegglessMusicEditor sound
+nwp,media:audio,Noteworthy Player file type
+all,media:audio,Steinberg Cubase song
 lua,text:source code,Lua Source
 mips,text:source code,MIPS Assembler Source
 asm,text:source code,MIPS Assembler Source
@@ -706,6 +1113,71 @@ qcif,media:video,QCIF RAW video format
 h261,media:video,H.261 video format
 vprj,media:video,VideoReDo project file
 3ivx,media:video,3ivx video data
+sesx,media:audio,Adobe Audition audio session
+mpdp,media:audio,MixPad project
+opus,media:audio,Opus audio data
+flac,media:audio,Audio files encoded by Flac - free lossless audio codec
+ocdf,media:audio,OneClickDigital mp3 audio book
+midi,media:audio,MIDI-sequention sound
+mscz,media:audio,MuseScore compressed music score sheet
+br25,media:audio,BMW iDrive multimedia data
+band,media:audio,GarageBand music project
+musx,media:audio,Finale notation
+br28,media:audio,BMW iDrive multimedia data
+eac3,media:audio,Dolby Digital Plus audio track
+xpak,media:audio,XLN audio package
+mogg,media:audio,Multitrack digital audio format
+cdfs,media:audio,Compact Disc File System
+8svx,media:audio,Amiga 8-bit sound
+ulaw,media:audio,Raw CCITT/ITU G.711 US telephony audio format
+nsmp,media:audio,Nord audio keyboards sample
+nmsv,media:audio,Native Instruments MASSIVE audio data file
+sabs,media:audio,Call ot Duty Black Ops sound archive
+ytif,media:audio,Independence instrument file
+mmpz,media:audio,Linux MultiMedia Studio project
+aiff,media:audio,Audio Interchange File Format
+mp4a,media:audio,MPEG-4 MP4A audio
+stem,media:audio,Native Instruments Stems audio data
+apex,media:audio,AVM Sample Studio bank file
+weba,media:audio,Zoom Player WebM audio
+sabl,media:audio,Call ot Duty: Black Ops audio library
+g726,media:audio,Raw CCITT/ITU G.726 ADPCM sound data
+song,media:audio,System 7 sound
+mscx,media:audio,MuseScore music score
+vsqx,media:audio,VOCALOID Editor project
+ngrr,media:audio,GUITAR RIG sound
+nist,media:audio,HTK NIST audio data
+sdir,media:audio,Apple Logic Space Designer impulse response data
+br27,media:audio,BMW iDrive multimedia data
+cdda,media:audio,Apple iTunes AIFF audio data
+sd2f,media:audio,Sound Designer 2 audio
+mp3a,media:audio,Renamed MP3 audio
+wave,media:audio,WAVe PCM sound
+puma,media:audio,Pumatraker data
+nfm8,media:audio,Native Instruments KOMPLETE FM8 sound
+aria,media:audio,Chipsounds audio data
+stmp,media:audio,Apple Soundtrack Pro project
+amxd,media:audio,Max for Live project
+alaw,media:audio,A-law G.711 European telephony data
+adts,media:audio,Audio Data Transport Stream
+acid,media:audio,Sony ACID Pro project
+rf64,media:audio,Winamp RIFF64 broadcast wave format
+niff,media:audio,Notation Interchange File Format
+xwma,media:audio,xWMA audio compression format
+br29,media:audio,BMW iDrive multimedia data
+sdat,media:audio,Nintendo DS sound data
+dmse,media:audio,Roxio Sound Editor project
+xvag,media:audio,Sony PlayStation 3 audio
+g723,media:audio,Raw CCITT/ITU G.723 ADPCM sound format
+nbkt,media:audio,Native Instruments BATTERY audio data
+nsla,media:audio,Nero Video audio data
+mp3g,media:audio,WinCDG Pro MP3+G Karaoke file
+aifc,media:audio,Audio Interchange File Format sound file with compression
+akai,media:audio,Akai S-series floppy disk image
+ssdl,media:audio,Sonicfire Pro music
+alac,media:audio,Apple Lossless Audio Codec audio data
+mpga,media:audio,Mpeg-1 Layer3 audio stream
+e2ev,media:audio,Korg Electribe event recorder pattern
 
 applescript,text:source code,AppleScript Source
 coffee,text:source code,CoffeeScript Source
@@ -806,3 +1278,30 @@ dvdmedia,media:video,RipIt DVD backup
 asdvdcrtproj,media:video,Aimersoft DVD Creator project
 grasp,media:video,Graphical System for Presentation animation data
 dv-avi,media:video,Microsoft DV-AVI video data
+waptt,media:audio,WhatsApp Messenger voicemail recording
+i3pack,media:audio,i3pack audio
+vdjsample,media:audio,VirtualDJ audio sample
+elastik,media:audio,Elastik engine sound bank
+logic,media:audio,Apple Logic Pro music project
+stem.mp4,media:audio,Native Instruments Stems audio
+record,media:audio,Recorded audio data
+h2song,media:audio,Hydrogen drum notes
+audio,media:audio,Game sounds or other audio data
+audionote,media:audio,AudioNote data
+sfark,media:audio,Melody Machine compressed SoundFont file
+logicx,media:audio,Apple Logic Pro X project
+rtttl,media:audio,RTTTL / Nokring mobile ring-tone format
+dmpatch,media:audio,Fruity Loops Studio patch
+dmkit,media:audio,Drumaxx file
+dtshd,media:audio,DTS-HD master audio
+architect,media:audio,Soundweb London design
+pttune,media:audio,PxTone audio data
+dpdoc,media:audio,Digital Performer project
+voxal,media:audio,Voxal Voice Changer project file
+mmjproject,media:audio,MAGIX Music Maker jam project
+smfmf,media:audio,Audio data
+dmptrn,media:audio,Fruity Loops Studio pattern
+minibank,media:audio,Mini V data
+aupreset,media:audio,Apple Logic Studio preset file
+camelsounds,media:audio,Camel Audio Alchemy sound library
+gpbank,media:audio,Guitar Pro audio bank
