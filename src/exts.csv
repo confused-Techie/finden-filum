@@ -97,6 +97,21 @@ es,media:audio,ECHOSPEECH data
 ay,media:audio,Audio Overload project
 vm,media:audio,Samsung cell phone voice memo
 v8,media:audio,Covox 8-bit audio file
+pk,binary,LaTeX compressed font
+91,binary,Ventura Publisher 91x91 dpi display font
+96,binary,Corel Ventura Publisher 96x96 dpi display font
+85,binary,Ventura Publisher 85x85 dpi display font
+75,binary,Ventura Publisher 75x75 dpi display font
+0b,binary,Adobe PageMaker printer font
+gf,binary,MetaFont font
+8u,binary,Adobe Pagemaker Roman 8 extended character set printer font
+8m,binary,Adobe PageMaker math 8 printer font
+t2,binary,TrueType font file
+bx,binary,Embrilliance Essentials font
+_v,binary,Adobe Type Manager Japanese font metrics
+vf,binary,TeX virtual font
+ff,binary,Agfa Compugraphics outline font description
+fd,binary,Font definition file
 
 adb,text:source code,ADA Source
 ads,text:source code,ADA Source
@@ -832,6 +847,166 @@ oxm,media:audio,Ogg compressed xm data
 lme,media:audio,LegglessMusicEditor sound
 nwp,media:audio,Noteworthy Player file type
 all,media:audio,Steinberg Cubase song
+pkt,binary,TeX font
+ttf,binary,TrueType font
+eot,binary,Embedded OpenType font
+ofm,binary,Adobe PostScript font description data
+chr,binary,Borland language stroke font
+fnt,binary,Font
+otf,binary,OpenType font file format
+frf,binary,FontMonger intermediate font
+pfb,binary,Type 1 PostScript font
+afs,binary,Adobe Type Manager font set
+ttc,binary,TrueType Font collection
+afm,binary,Adobe font metrics
+ftm,binary,Micrografx font
+pfm,binary,Printer outline metric font
+eft,binary,ChiWriter high resolution screen font
+apf,binary,Lotus printer driver fonts
+tmf,binary,Corel WordPerfect tagged font metric
+tpf,binary,HiJaak downloadable PCL soft font
+mcf,binary,Mathcad font
+pss,binary,Adobe Type Manager PostScript stub data
+fon,binary,Microsoft Windows bitmap font
+gft,binary,NeoPaint font
+dzk,binary,AMP font library
+vfb,binary,Font description data
+hbf,binary,Hanzi bitmap font
+sfp,binary,LaserJet portrait font file
+afn,binary,ArtCAM font
+pfa,binary,PostScript type 1 font
+mgf,binary,Micrografx font
+sfl,binary,PCL4 Ventura printer bitmap font
+auf,binary,Alphacam user font
+chx,binary,Big font set
+vlw,binary,Processing font
+f11,binary,MS-DOS screen text 11 pixels height font file
+sfi,binary,Corel Ventura Publisher HP LaserJet printer font
+fxr,binary,Oracle font cross-reference data
+vf3,binary,6D Embroidery Software font
+vmf,binary,Corel Ventura Publisher font characteristics
+usp,binary,PageMaker printer font
+abf,binary,Adobe binary screen font
+tte,binary,Microsoft Windows Private Character Editor data
+xfc,binary,X-Fonter font collection
+bco,binary,Bitstream outline font description file
+zsu,binary,Zebra printer font file
+vf1,binary,Birch BP-743 variable pitch font
+tfm,binary,Tagged Font Metric data
+085,binary,Corel Ventura Publisher 85x85 dpi font
+mcf,binary,Watchtower Library font
+gsf,binary,Ghostscript fonts
+fog,binary,Fontographer font database file
+lft,binary,ChiWriter laser printer font
+zfi,binary,ZenGL font
+euf,binary,Microsoft Windows Private Character Editor font
+cfn,binary,Calamus font data file
+pcf,binary,UNIX font
+okf,binary,OKF font file format
+qfn,binary,Apple QuickTime font file
+sfo,binary,Bitstream font
+wfn,binary,Corel font or symbol
+cff,binary,Compact Font
+vnf,binary,Vision Numeric font
+mfm,binary,VTeX multiple master font metrics
+f00,binary,Kanji font
+vfm,binary,Ventura Publisher font metrics
+tb2,binary,Borland Turbo C font
+075,binary,Corel Ventura Publisher 75x75 dpi font
+qbf,binary,QuickBASIC font
+bfn,binary,Brother Embroidery software font
+phf,binary,Photofont font
+bzr,binary,Binary font
+f10,binary,DOS screen text 10 pixels height font file
+fot,binary,Truetype font styles
+b30,binary,Ventura Publisher printer font
+tb1,binary,Borland Turbo C font
+f08,binary,DOS screen text 8 pixels height font
+64c,binary,Commodore C64 Emulator data or font
+fnn,binary,MS-DOS screen text font
+gdr,binary,Symbian OS bitmap font
+091,binary,Corel Ventura Publisher 91x91 dpi font
+pil,binary,Python Image Library font
+w30,binary,Ventura Publisher printer font
+f06,binary,MS-DOS screen text 6 pixels height font
+f16,binary,DOS screen text 16 pixels height font file
+hfi,binary,HP font
+sfn,binary,EasySIGN font
+bez,binary,Bitstream outline font description file
+frs,binary,Corel WordPerfect screen font resource file
+fdb,binary,Font definition block of SWT generator
+t1c,binary,Adobe Postscript Type1 compressible font
+dus,binary,Readiris font dictionary data
+12u,binary,Adobe PageMaker font
+fnb,binary,1st Publisher font
+#gf,binary,MetaFont font
+f3f,binary,Crazy Machines font data
+scr,binary,LocoScript screen font
+f12,binary,DOS screen text 12 pixel height font
+f09,binary,MS-DOS screen text 9 pixels height font
+f13,binary,MS-DOS screen text 13 pixels height font
+sft,binary,ChiWriter screen font
+usl,binary,LaserJet landscape font
+atm,binary,Adobe Type Manager data
+fo1,binary,Borland Turbo C font
+svg,binary,SVG fonts format
+ufo,binary,Unified font object
+mft,binary,MetaFont Source Formatter
+fdb,binary,Ming font
+bmf,binary,BMF ByteMap font file
+mtf,binary,Mediatek font
+chm,binary,Chameleon source font
+mmm,binary,Adobe Type Manager multiple-master font metrics
+sfd,binary,Fontforge Spline Font database file format
+cga,binary,Ventura Publisher CGA display font
+spd,binary,Bitstream Speedo scalable font
+txf,binary,Celestia font texture
+nlq,binary,Daisy-Dot 19x16 font
+etx,binary,TeX font file
+$tf,binary,Steinberg Cubase fonts compressed data
+bdf,binary,UNIX font
+pcf,binary,PaintCAD font
+prs,binary,Corel WordPerfect printer resource font
+096,binary,Corel Ventura Publisher 96x96 dpi font
+pfa,binary,Unhinted PostScript Type 3 font
+flf,binary,FIGlet zipped figletized text font
+cha,binary,DTL OTMaster character layout
+sif,binary,Super-IRG font
+r8?,binary,Microsoft Word for DOS font file
+us?,binary,Microsoft Word font file
+ntf,binary,Microsoft Windows font format
+fo2,binary,Borland Turbo C font
+snf,binary,UNIX font
+glf,binary,AfterGRASP font file
+cef,binary,Adobe Illustrator compact embedded font
+xfn,binary,Corel Ventura printer font
+chr,binary,Blazing Paddles font
+sui,binary,Apple MAC font
+###,binary,SmartWare filled area font
+sxs,binary,Atari 16x16 font
+mrf,binary,Macintosh font
+asf,binary,Lotus screen font
+pft,binary,ChiWriter printer font
+snf,binary,DESQview font
+wnf,binary,CorelDRAW outline font description file
+fn3,binary,Harvard Graphics 3.0 font
+xft,binary,ChiWriter 24 pin printer font
+gxf,binary,General CADD Pro font
+tdf,binary,TheDraw font
+cct,binary,SIL Hebrew Font System transliteration table
+sfs,binary,HP PCL 5 scalable font
+acs,binary,AtariTools-800 font
+ch4,binary,ZX Spectrum font
+pfr,binary,Font Fusion portable font resource
+15u,binary,Adobe PageMaker printer font
+all,binary,Arts & Letters library
+sff,binary,SmartWare screen font file
+fyi,binary,Fontasy Publisher italic font file
+fli,binary,Tex font library (EmTeX)
+ice,binary,Interlace Character Editor font
+mfd,binary,Adobe multiple master font metrics directory
+$on,binary,Steinberg Cubase fonts compressed file
+xfr,binary,Ventura Publisher bitmap editor font
 lua,text:source code,Lua Source
 mips,text:source code,MIPS Assembler Source
 asm,text:source code,MIPS Assembler Source
@@ -1178,6 +1353,23 @@ ssdl,media:audio,Sonicfire Pro music
 alac,media:audio,Apple Lossless Audio Codec audio data
 mpga,media:audio,Mpeg-1 Layer3 audio stream
 e2ev,media:audio,Korg Electribe event recorder pattern
+woff,binary,Web Open Font Format package
+bmap,binary,Apple Macintosh screen font
+suit,binary,Apple Mac OS font suitcase
+glif,binary,Glyph Interchange Format
+font,binary,Font data
+mvec,binary,Playground SDK font
+ffil,binary,Mac OS X Data Fork Suitcase Format
+acfm,binary,Adobe composite font metrics
+aspf,binary,Adobe Type1 Fonts mac file type
+lwfn,binary,Adobe Type 1 font
+type,binary,Amiga font
+cbtf,binary,Plazmic font
+bepf,binary,Adobe Big Endian Prebuilt Format
+amfm,binary,Adobe multiple font metrics file
+claf,binary,Claris font file
+lepf,binary,Adobe Little Endian Prebuilt Format
+fnta,binary,Marathon 2 Aleph One font file
 
 applescript,text:source code,AppleScript Source
 coffee,text:source code,CoffeeScript Source
@@ -1305,3 +1497,15 @@ minibank,media:audio,Mini V data
 aupreset,media:audio,Apple Logic Studio preset file
 camelsounds,media:audio,Camel Audio Alchemy sound library
 gpbank,media:audio,Guitar Pro audio bank
+
+Extension,binary,Sort by File type description
+woff2,binary,Web Open Font Format 2.0 package
+glyphs,binary,Glyphs character data
+vfont,binary,Valve Source font
+odttf,binary,Microsoft Office document embedded font
+collection,binary,Font collection cache
+dfont,binary,Mac Data Fork Suitcase Format
+spritefont,binary,XNA Game Studio font
+compositefont,binary,Composite font file
+fonts,binary,Font
+intellifont,binary,Intellifont data
