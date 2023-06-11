@@ -13,6 +13,8 @@ z,archive,Unix compressed file format
 2,media:audio,Saltlake city game music data
 7,media:audio,Salt Lake Winter Olympics 2002 music data
 s,media:audio,AKAI S1000/S1100/S01 sample or AKAI S900/950 sample
+p,binary,MATLAB binary-runtime P-file
+1,binary,Inno Setup binary data
 
 as,text:source code,ActionScript Source
 cc,text:source code,C++ Source
@@ -112,6 +114,12 @@ _v,binary,Adobe Type Manager Japanese font metrics
 vf,binary,TeX virtual font
 ff,binary,Agfa Compugraphics outline font description
 fd,binary,Font definition file
+00,binary,Studievereniging Marie Curie binary data
+qq,binary,BLU archive
+dm,binary,DRM Delivery Message
+mb,binary,Mathematica binary data
+lw,binary,LightWave 3D binary file
+mo,binary,Message catalog binary data
 
 adb,text:source code,ADA Source
 ads,text:source code,ADA Source
@@ -1007,6 +1015,75 @@ ice,binary,Interlace Character Editor font
 mfd,binary,Adobe multiple master font metrics directory
 $on,binary,Steinberg Cubase fonts compressed file
 xfr,binary,Ventura Publisher bitmap editor font
+dmp,binary,Memory dump screen dump, junk files
+res,binary,Delphi resource data
+log,binary,Log
+mf4,binary,ASAM Version 4.0 measurement data format
+bpl,binary,Delphi packed library
+suo,binary,Microsoft Visual Studio solution user options
+pld,binary,Oracle binary module text form
+sbn,binary,ArcView spatial index for read-write shapefiles
+dlf,binary,Belkin router firmware update
+oct,binary,RADIANCE Octree Format
+pib,binary,Platform independent binary data
+bdf,binary,Bdiff Bupdate binary update
+sea,binary,ShrinkIt self-extracting archive
+ami,binary,AMI BIOS firmware data
+vtz,binary,VTPro-E compiled project
+dpl,binary,Delphi packed library
+mdf,binary,Vector measurement data
+dmt,binary,Delphi menu template
+pbo,binary,Microsoft Source Profiler profiler binary output
+dmg,binary,Oracle binary format dump data
+aab,binary,Adobe Authorware binary data
+odb,binary,Abaqus/CAE binary output data
+rbf,binary,Quartus II RAW binary data
+pbt,binary,Microsoft Source Profiler binary table
+lsb,binary,LightScape Technologies binary data file
+dcp,binary,Delphi component package
+shk,binary,ShrinkIt compressed Apple II file archive
+264,binary,Alcatel Speed Touch DSL modem firmware update
+vdb,binary,Norton Antivirus virus definition update
+blg,binary,Microsoft Windows binary performance log
+oca,binary,Visual Basic Control Typelib Cache file
+zbf,binary,RADIANCE Z-Buffer format
+dde,binary,Dynamic Data Exchange
+dcu,binary,Delphi compiled unit
+aks,binary,Aksharamala keymap binary data
+bny,binary,Binary ll format
+dsm,binary,Delphi symbol file
+bif,binary,Binary information data
+bin,binary,Opera encoder data
+bxy,binary,NuFX archive within a Binary II envelope
+exp,binary,ASCET binary model description
+aot,binary,ZenWorks snAppShot application binary object template
+ess,binary,Ekahau Site Survey binary container
+bin,binary,Thomson Speedtouch series WLAN router firmware
+wps,binary,Rockbox theme
+ems,binary,Intergraph Engineering Modelling System data
+uhs,binary,Universal Hint System binary data
+akm,binary,Aksharamala keymap binary data
+bim,binary,ZEMAX binary image
+rqf,binary,R-Quest Duplication Systems firmware update
+fb1,binary,FAWAVE binary data
+ctx,binary,Visual Basic user control binary data
+bgf,binary,ZEMAX binary glass catalog
+gbf,binary,GTrek GPS binary file
+boo,binary,Bootstrap (Kermit protocol binary data)
+bqf,binary,Wavewatch binary quadrupled data
+akm,binary,MOM management pack
+ppo,binary,Free Pascal compiled unit
+flx,binary,DataFlex compiled binary
+tpb,binary,GROMACS portable binary run input data
+gpl,binary,GenePix Lab Book format
+fb2,binary,FAWAVE binary data
+pbi,binary,Microsoft Source Profiler profiler binary input
+tpa,binary,GROMACS portable binary run input data
+bif,binary,Corel WordPerfect binary information
+bws,binary,KS32C6200 demo board ROM binary file
+bqy,binary,NuFX with BLU header
+mag,binary,EcoWin chart file
+fcm,binary,jlpak10.zip binary file patch
 lua,text:source code,Lua Source
 mips,text:source code,MIPS Assembler Source
 asm,text:source code,MIPS Assembler Source
@@ -1370,6 +1447,12 @@ amfm,binary,Adobe multiple font metrics file
 claf,binary,Claris font file
 lepf,binary,Adobe Little Endian Prebuilt Format
 fnta,binary,Marathon 2 Aleph One font file
+baml,binary,Compiled XAML file
+x3db,binary,X3D binary format
+bufr,binary,Binary Universal Form for the Representation
+grib,binary,WMO CBS FM 92-VIII ext. gridded binary data
+neta,binary,Netica Bayesian network binary data
+srpm,binary,Linux Source RPM Package
 
 applescript,text:source code,AppleScript Source
 coffee,text:source code,CoffeeScript Source
@@ -1509,3 +1592,5 @@ spritefont,binary,XNA Game Studio font
 compositefont,binary,Composite font file
 fonts,binary,Font
 intellifont,binary,Intellifont data
+Extension,binary,Sort by File type description
+bsave,binary,Quickbasic BLOAD/BSAVE format
