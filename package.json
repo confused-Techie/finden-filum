@@ -1,6 +1,6 @@
 {
   "name": "finden-filum",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Quickly, dependency-free, check for details of any file type",
   "main": "./src/main.js",
   "scripts": {
@@ -12,5 +12,6 @@
     "ff": "./bin/cli.js"
   },
   "author": "confused-Techie",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": "https://github.com/confused-Techie/finden-filum"
 }
