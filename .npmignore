@@ -1,0 +1,5 @@
+node_modules/
+benchmarks/
+docs/
+scripts/
+test/

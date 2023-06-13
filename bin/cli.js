@@ -31,6 +31,11 @@ async function main(params) {
     process.exit(0);
   }
 
+  if (typeof res === "string") {
+    console.log(res);
+    process.exit(0);
+  }
+  
   for (const [key, value] of Object.entries(res.getFull())) {
     console.log(`- ${(key.charAt(0).toUpperCase()) + (key.slice(1))}: ${value}`);
   }
