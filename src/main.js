@@ -28,5 +28,5 @@ module.exports = function (value, opts = {}) {
     return undefined;
   }
 
-  return new ExtObj(extension);
+  return new ExtObj(extension, ext);
 }

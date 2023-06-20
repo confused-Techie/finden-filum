@@ -1,5 +1,5 @@
 module.exports = class ExtObj {
-  constructor(obj) {
+  constructor(obj, originalExtension) {
     if (typeof obj !== "object") {
       throw new Error(`${obj} passed to ExtObj is not a valid object!`);
     }
@@ -9,6 +9,7 @@ module.exports = class ExtObj {
     this._resourceURL = obj.resourceURL;
     this._description = obj.description;
     this._obj = obj;
+    this.extension = originalExtension;
 
     this._categoryList = this._categories.split(":");
 
