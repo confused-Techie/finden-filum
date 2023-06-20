@@ -129,3 +129,11 @@ Extension to be added:
 - tt: document
 - xql: document
 - yy: document
+
+TODO:
+
+ts,media:video,MPEG-TV recorded video format
+
+Has been replaced with:
+
+ts,text:source code,TypeScript Source

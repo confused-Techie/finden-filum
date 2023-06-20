@@ -50,7 +50,7 @@ ai,media:image,Adobe Illustrator Artwork image file
 ct,media:image,Continuous Tone File
 mp,media:image,MetaPost programming language generated images
 bu,media:video,Samsung CCTV security video recording
-ts,media:video,MPEG-TV recorded video format
+ts,text:source code,TypeScript Source
 pz,media:video,Panzoid video project
 rf,media:video,RealFlash clip
 vf,media:video,Vegas Movie Studio project
