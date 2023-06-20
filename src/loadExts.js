@@ -1,6 +1,6 @@
 module.exports = function() {
   const fs = require("fs");
-  const extsRaw = fs.readFileSync(`${__dirname}/src/exts.csv`, { encoding: "utf8" });
+  const extsRaw = fs.readFileSync(`${__dirname}/exts.csv`, { encoding: "utf8" });
   let extsArray = extsRaw.split("\n");
 
   let map = new Map();
